@@ -13,6 +13,9 @@ permalink: /:title
 paginate: 10
 paginate_path: /page/:num/
 
+disqus:
+    shortname: commandline-blog
+
 defaults:
   -
     scope:
