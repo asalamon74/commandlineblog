@@ -10,7 +10,7 @@ categories:
 ---
 
 Általában ha egy alkönyvtárat titkosítunk (pl. 
-[encfs](http://commandline.blog.hu/2010/01/19/encfs)sel) akkor titkosítva tároljuk az adatokat a merevlemezen és csak jelszóval férhetünk hozzá a titkosítatlan adatokhoz. Lehetőségünk van ennek a fordítottjára is.
+[encfs](/2010/01/19/encfs)sel) akkor titkosítva tároljuk az adatokat a merevlemezen és csak jelszóval férhetünk hozzá a titkosítatlan adatokhoz. Lehetőségünk van ennek a fordítottjára is.
 
 Akiben felmerül, hogy mi értelme van ennek: Van egy alkönyvtáram amit lokálisan nincsen titkosítva (annyira nem tikos) de azért a felhőbe nem szeretném titkosítatlanul feltölteni.
 

@@ -7,7 +7,7 @@ categories:  []
 ---
 
 Még a 
-[Shell Scripts Matter](https://commandlineblog.melda.info/2017/06/13/cikkajanlo_shell_scripts_matter) cikk ajánlotta a 
+[Shell Scripts Matter](/2017/06/13/cikkajanlo_shell_scripts_matter) cikk ajánlotta a 
 [shellcheck](https://www.shellcheck.net/)et, de önmagában is megér egy bejegyzést.
 
 Készítsünk egy nagyon egyszerű scriptet (test1.sh):

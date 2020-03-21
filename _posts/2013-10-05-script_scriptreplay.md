@@ -7,7 +7,7 @@ categories:  []
 ---
 
 Időnként hasznos elmenteni, hogy mit is dolgozunk egy terminálban, de egy 
-[videó mentése](http://commandline.blog.hu/2013/05/26/recordmydesktop) azért túlzásnak tűnik.
+[videó mentése](/2013/05/26/recordmydesktop) azért túlzásnak tűnik.
 
 Egyszerűbb az util-linux csomagban található 
 [script](http://en.wikipedia.org/wiki/Script_%28Unix%29) programot használni:

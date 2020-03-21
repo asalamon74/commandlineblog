@@ -38,4 +38,4 @@ Elég furcsa, de úgy látom sokan nem szeretik használni a bash for ciklusát,
  korte.jpg
 ``` 
 Ha valami nem megy, akkor többnyire a pontosvesszőkkel van a gond.Egy életszerűbb (és némileg bonyolultabb) példa található 
-[ebben](http://commandline.blog.hu/2010/01/22/imagemagick) a korábbi bejegyzésben.
+[ebben](/2010/01/22/imagemagick) a korábbi bejegyzésben.

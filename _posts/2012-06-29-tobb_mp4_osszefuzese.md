@@ -10,8 +10,8 @@ categories:
 ---
 
 Az 
-[avi](http://commandline.blog.hu/2010/02/27/tobb_avi_osszefuzese) és 
-[mkv](http://commandline.blog.hu/2010/04/02/tobb_matroska_osszefuzese) összefűzéshez hasonlóan most mp4 fájlokat kellett összeragasztanom (újrakódolás nélkül persze). Ehhez 
+[avi](/2010/02/27/tobb_avi_osszefuzese) és 
+[mkv](/2010/04/02/tobb_matroska_osszefuzese) összefűzéshez hasonlóan most mp4 fájlokat kellett összeragasztanom (újrakódolás nélkül persze). Ehhez 
 [MP4Box](http://gpac.wp.mines-telecom.fr/mp4box/) parancsot használtam ( 
 [GPAC](http://gpac.wp.mines-telecom.fr/) csomag része ):
 

@@ -9,7 +9,7 @@ categories:
 ---
 
 Kiderült, hogy az emberi kreativitás határtalan, nemcsak 
-[vertikálisan](http://commandline.blog.hu/2015/10/07/video_elforgatasa)lehet rosszul tartani egy telefont, ha videózik az ember.
+[vertikálisan](/2015/10/07/video_elforgatasa)lehet rosszul tartani egy telefont, ha videózik az ember.
 
 Ha fejjel lefelé sikerül felvenni, akkor így lehet visszaforgatni:
 

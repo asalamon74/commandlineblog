@@ -11,7 +11,7 @@ categories:
 [ImagaMagick](http://www.imagemagick.org/) kincsesbányába botlottam. 
 [Fred Weinhaus weboldalán](http://www.fmwconcepts.com/imagemagick/) számtalan imagemagickre épülő scriptet találhatunk. 
 Az egyik ilyen script segítségével egy régi problémámat sikerült megoldani. Ha egyszerre több képet ( könyvborítót, fényképet, ...) 
-[szkennelek be](http://commandline.blog.hu/2011/01/15/szkenneles), akkor elég macerás egyenként kijelölni a képeket, és a kissé elfordult képeket visszaforgatni ( akár digitálisan, akár megigazítás után újraszkennelve ). 
+[szkennelek be](/2011/01/15/szkenneles), akkor elég macerás egyenként kijelölni a képeket, és a kissé elfordult képeket visszaforgatni ( akár digitálisan, akár megigazítás után újraszkennelve ). 
 A 
 [multicrop](http://www.fmwconcepts.com/imagemagick/multicrop/) script mindezt elvégzi helyettünk. A következő képet szkenneltem be, 2 könyvborítót láthatunk rajta: 
 ![](http://commandline.blog.hu/media/image/egyben.jpg) 

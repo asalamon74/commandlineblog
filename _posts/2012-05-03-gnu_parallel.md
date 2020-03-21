@@ -11,10 +11,10 @@ categories:
 ---
 
 Bár 
-[find](http://commandline.blog.hu/2010/11/14/find_2) + 
-[xargs](http://commandline.blog.hu/2011/01/06/xargs) segítségével rengeteg érdekes problémát meg tudunk oldani, túlzás lenne azt állítani, hogy a túl kényelmes a két parancs használata. A neve alapján GNU 
+[find](/2010/11/14/find_2) + 
+[xargs](/2011/01/06/xargs) segítségével rengeteg érdekes problémát meg tudunk oldani, túlzás lenne azt állítani, hogy a túl kényelmes a két parancs használata. A neve alapján GNU 
 [parallel](http://www.gnu.org/software/parallel/)ről azt gondoltam, hogy csak a párhuzamos feldolgozásban ( lásd 
-[xargs -P](http://commandline.blog.hu/2011/01/12/xargs_p) ) fog segíteni, de némi használat után úgy látom hogy a párhuzamosságon kívül a használata is egyszerűbb.
+[xargs -P](/2011/01/12/xargs_p) ) fog segíteni, de némi használat után úgy látom hogy a párhuzamosságon kívül a használata is egyszerűbb.
 
 Ha egy alkönyvtár png fájljait szeretném jpeg formátumra átkonvertálni és egyben átméretezni, akkor a find + xargs használatával a következőképpen tehetem ezt meg:
 

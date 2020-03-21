@@ -9,7 +9,7 @@ categories:
 ---
 
 Korábban már használtam shredet a 
-[merevlemez teljes tartalmának törléséhez](http://commandline.blog.hu/2011/03/06/merevlemez_torlese), de ezt használhatjuk fájltörléshez is.
+[merevlemez teljes tartalmának törléséhez](/2011/03/06/merevlemez_torlese), de ezt használhatjuk fájltörléshez is.
 
 /dev/sdb6 partíción teszteltem:
 

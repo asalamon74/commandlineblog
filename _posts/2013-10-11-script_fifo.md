@@ -7,7 +7,7 @@ categories:  []
 ---
 
 A 
-[nemrég említett](http://commandline.blog.hu/2013/10/05/script_scriptreplay) script egy másik érdekes használata a következő:
+[nemrég említett](/2013/10/05/script_scriptreplay) script egy másik érdekes használata a következő:
 
 1. terminál:
 

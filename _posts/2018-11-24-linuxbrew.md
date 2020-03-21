@@ -9,7 +9,7 @@ categories:
 ---
 
 A Mac OS-en elérhető 
-[homebrew](https://commandlineblog.melda.info/2018/09/08/homebrew) linuxos forkja a 
+[homebrew](/2018/09/08/homebrew) linuxos forkja a 
 [Linuxbrew](http://linuxbrew.sh/). Használatával Linuxra is pont úgy installálhatunk fel programokat mint Mac OS-re. Elsőre kevésbé tűnik hasznosnak, hiszen minden Linux disztribúciónak van saját csomagkezelője, de elég sokszor előfordul, hogy egy csomag kimarad a gyári csomagok közül és linuxbrew-val egyszerűen installálható.
 
 Például Mageia disztróra elég nehéz feltenni shellcheck-et, de linuxbrew-val ez csak egy mozdulat:

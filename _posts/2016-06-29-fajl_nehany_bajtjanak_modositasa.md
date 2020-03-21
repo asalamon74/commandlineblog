@@ -9,8 +9,8 @@ categories:
 ---
 
 Korábban már 
-[módosítottam](http://commandline.blog.hu/2011/11/25/hdd_le-rol_ssd-re)egy partíciós tábla fejlécében néhány bájtot 
-[xxd](http://commandline.blog.hu/2011/11/19/xxd_382)és dd használatával, amikor egy fájllal akartam ugyanezt megtenni, akkor viszont nem teljesen működött a módszer:
+[módosítottam](/2011/11/25/hdd_le-rol_ssd-re)egy partíciós tábla fejlécében néhány bájtot 
+[xxd](/2011/11/19/xxd_382)és dd használatával, amikor egy fájllal akartam ugyanezt megtenni, akkor viszont nem teljesen működött a módszer:
 
 ```
 dd if=/dev/zero of=test.dat bs=1 count=100

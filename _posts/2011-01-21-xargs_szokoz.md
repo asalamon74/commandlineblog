@@ -10,7 +10,7 @@ categories:
 ---
 
 A fájlnevekben szereplő szóközökkel mindig csak baj van. Készítsünk egy scriptet, ami a jpeg fájlokban található 
-[exif](http://commandline.blog.hu/2010/05/14/exiftool) információ alapján megnézi, hogy milyen ISO értékekkel fényképeztünk: 
+[exif](/2010/05/14/exiftool) információ alapján megnézi, hogy milyen ISO értékekkel fényképeztünk: 
 ```
 find . -name "*.jpg" | xargs -n1 exiftool -m -iso
 ``` 

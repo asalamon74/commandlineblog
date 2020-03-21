@@ -10,8 +10,8 @@ categories:
 ---
 
 Egy 
-[korábbi bejegyzésben](http://commandline.blog.hu/2010/03/05/dvdauthor) leírtam, miként tudunk dvdauthor segítségével egy vob fájlból pár lépéssel menü nélküli DVD-t írni. Egy 
-[későbbi bejegyzésben](http://commandline.blog.hu/2010/03/17/process_helyettesites) a vob fájl mpeg-re konvertálásának egy hatékonyabb változatáról is írtam. 
+[korábbi bejegyzésben](/2010/03/05/dvdauthor) leírtam, miként tudunk dvdauthor segítségével egy vob fájlból pár lépéssel menü nélküli DVD-t írni. Egy 
+[későbbi bejegyzésben](/2010/03/17/process_helyettesites) a vob fájl mpeg-re konvertálásának egy hatékonyabb változatáról is írtam. 
 Most egy olyan példát mutatok, ahol dvdauthor-t XML fájl segítségével konfiguráljuk. A cél az, hogy egy vob fájlból úgy írjunk menü nélküli DVD-t, hogy lehetőségünk legyen fejezeteket definiálni, illetve az eredeti DVD egyes részeit kihagyni. Rögtön felmerülhet a kérdés, mi értelme ennek. Nos, gyári DVD-ből kiindulva semmi (illetve önjelölt rendezők újravághatják a filmeket), de ha pl. családi videonkat másoljuk át videokazettáról DVD-felvevő segítségével, akkor lszükség lehet rá. 
 Persze mindig van lehetőségünk arra, hogy a hasznos részeket, fejezeteket kijelölve újrakódoljuk a filmet, de az itt leírt megoldásnál nincs szükség újrakódolásra, ami előnyös lehet. 
 A 

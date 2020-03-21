@@ -9,7 +9,7 @@ categories:
 ---
 
 Korábban már mutattam egy 
-[interaktív vi tutorialt](http://commandline.blog.hu/2011/09/29/vi_interaktiv_tutorial), ami segít a vi ( pontosabban vim ) kezelésének megtanulásában. Úgy tűnik, még mindig nem terjed el eléggé a vim, ezért készítettek egy kalandjátékot, ami játékos formában tanítja meg a vim kezelését.
+[interaktív vi tutorialt](/2011/09/29/vi_interaktiv_tutorial), ami segít a vi ( pontosabban vim ) kezelésének megtanulásában. Úgy tűnik, még mindig nem terjed el eléggé a vim, ezért készítettek egy kalandjátékot, ami játékos formában tanítja meg a vim kezelését.
 
 Nem vagyok teljesen meggyőződve arról, hogy a 
 [vim-adventures.com](http://vim-adventures.com/) tényleg segít a vim tanulásában, de mindenképpen érdemes kipróbálni.

@@ -10,7 +10,7 @@ categories:
 ---
 
 Nemrég 
-[írtam](http://commandline.blog.hu/2015/11/20/pdf_jelszovedelem) arról, hogyan adhatunk jelszóvédelmet egy pdf fájlhoz, adódik a kérdés, hogyan törhetjük ezt fel. Az előző példában használt 1234 jelszót elég gyorsan (laptopomon 5 perc) feltörhetjuk 
+[írtam](/2015/11/20/pdf_jelszovedelem) arról, hogyan adhatunk jelszóvédelmet egy pdf fájlhoz, adódik a kérdés, hogyan törhetjük ezt fel. Az előző példában használt 1234 jelszót elég gyorsan (laptopomon 5 perc) feltörhetjuk 
 [pdfcrack](http://pdfcrack.sourceforge.net/) segítségével:
 
 ```

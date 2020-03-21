@@ -20,5 +20,5 @@ Ennél azért lényegesen hasznosabb a következő script, amivel egy alkönyvt�
 for i in *.JPG; do mv $i `echo $i | tr A-Z a-z`; done
 ``` 
 A rövid script megértésében segít a 
-[for ciklusról](http://commandline.blog.hu/2010/05/17/bash_for_ciklus) illetve 
-[seq](http://commandline.blog.hu/2010/04/08/seq)-ról szóló bejegyzés.
+[for ciklusról](/2010/05/17/bash_for_ciklus) illetve 
+[seq](/2010/04/08/seq)-ról szóló bejegyzés.

@@ -8,7 +8,7 @@ categories:
 ---
 
 Egy alkönyvtáram helyfoglalását akartam ellenőrizni 
-[du](http://commandline.blog.hu/2010/07/31/du_1)-val, de valahogy hiányzott néhány gigabájt.
+[du](/2010/07/31/du_1)-val, de valahogy hiányzott néhány gigabájt.
 
 Az általam többynire használt
 

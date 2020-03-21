@@ -11,7 +11,7 @@ categories:
 A cp (copy) parancs az egyik legalapvetőbb utasítás, de van néhány hátránya. Leginkább engem az zavar, hogy nem kapok arról visszajelzést, hogy hol is tart a másolás. Elég sokan azt 
 [javasolják](http://stackoverflow.com/a/6339326/21348), hogy használjunk inkább 
 [rsync](https://rsync.samba.org/)-et. Korábban erről a parancsról már 
-[írtam](http://commandline.blog.hu/2010/06/29/rsync), archiváláshoz használom.
+[írtam](/2010/06/29/rsync), archiváláshoz használom.
 
 Ha cp helyett a következő paraméterezését szoktam használni:
 

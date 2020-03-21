@@ -7,7 +7,7 @@ categories:  []
 ---
 
 A kettővel ezelőtti 
-[bejegyzéshez](http://commandline.blog.hu/2013/05/20/pv_cdialog) csatolt videó miatt szükségem volt a képernyőm egy részének rögzítésére. Ehhez 
+[bejegyzéshez](/2013/05/20/pv_cdialog) csatolt videó miatt szükségem volt a képernyőm egy részének rögzítésére. Ehhez 
 [recordmydesktopot](http://recordmydesktop.sourceforge.net) használtam:
 
 ```

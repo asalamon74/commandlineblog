@@ -11,7 +11,7 @@ categories:
 ---
 
 Arról már 
-[írtam](http://commandline.blog.hu/2010/03/23/pdf_keszitese_kepekbol), miként tudunk sok jpg fájlból egy pdf fájlt készíteni, most az ellentétes irányt mutatom meg, amikor egy pdf oldalait mentjük el jpeg fájlokba: 
+[írtam](/2010/03/23/pdf_keszitese_kepekbol), miként tudunk sok jpg fájlból egy pdf fájlt készíteni, most az ellentétes irányt mutatom meg, amikor egy pdf oldalait mentjük el jpeg fájlokba: 
 ```
 convert input.pdf output_%02d.jpg
 ``` 

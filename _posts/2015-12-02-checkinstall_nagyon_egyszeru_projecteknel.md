@@ -9,7 +9,7 @@ categories:
 - rpm
 ---
 
-[Írtam](http://commandline.blog.hu/2010/01/25/checkinstall) már a checkinstallról, amivel rpm (deb, ...) csomagot készíthetünk egy olyan projectből ami make install segítségével települne fel, kikerülve a csomagkezelőt.
+[Írtam](/2010/01/25/checkinstall) már a checkinstallról, amivel rpm (deb, ...) csomagot készíthetünk egy olyan projectből ami make install segítségével települne fel, kikerülve a csomagkezelőt.
 
 Vannak olyan egyszerű projectek, ahol még make install sincsen, jellemzően egyetlen futtatható fájl keletkezik, és azt kézzel kell átmásolni a /usr/local/bin (vagy ~/bin) alkönyvtárba.
 

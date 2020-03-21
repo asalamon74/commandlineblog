@@ -10,14 +10,14 @@ categories:
 ---
 
 Ha a 
-[diff](http://commandline.blog.hu/2011/09/04/diff_1) segítségével két fájlt szeretnénk összehasonlítani, akkor könnyű dolgunk van, de ha két parancs eredményét kell összehasonlítani akkor már nehezebb a helyzet. Én azt vettem észre, ilyenkor a többség két ideiglenes fájl készít, és azokat hasonlítja össze. Tegyünk fel, két fényképet készítettünk, és össze szeretnénk vetni exiftool segítségével a felvételek paramétereit: 
+[diff](/2011/09/04/diff_1) segítségével két fájlt szeretnénk összehasonlítani, akkor könnyű dolgunk van, de ha két parancs eredményét kell összehasonlítani akkor már nehezebb a helyzet. Én azt vettem észre, ilyenkor a többség két ideiglenes fájl készít, és azokat hasonlítja össze. Tegyünk fel, két fényképet készítettünk, és össze szeretnénk vetni exiftool segítségével a felvételek paramétereit: 
 ```
 exiftool virag-0000.dng > v0.txt
  exiftool virag-0001.dng > v1.txt
  diff v0.txt v1.txt
 ``` 
 Ehelyett sokkal egyszerűbb 
-[process helyettesítést](http://commandline.blog.hu/2010/03/17/process_helyettesites) alkalmazni: 
+[process helyettesítést](/2010/03/17/process_helyettesites) alkalmazni: 
 ```
 diff <(exiftool virag-0000.dng) <(exiftool virag-0001.dng)
 ``` 

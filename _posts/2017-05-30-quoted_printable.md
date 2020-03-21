@@ -27,7 +27,7 @@ qpd sent-mail-sep-2003
 ```
 
 pontosabban mivel akkoriban még nem UTF8-at használtam, jól jön 
-[recode](http://commandline.blog.hu/2010/03/26/recode)is:
+[recode](/2010/03/26/recode)is:
 
 ```
 qpd sent-mail-sep-2003 | recode latin2..utf8

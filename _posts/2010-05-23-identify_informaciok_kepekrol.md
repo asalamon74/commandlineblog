@@ -14,7 +14,7 @@ Korábban már többször említettem az
 [convert](http://www.imagemagick.org/script/convert.php) programját. Most ImageMagick egy másik parancssoros programjára hívnám fel a figyelmet. 
 Az 
 [identify](http://www.imagemagick.org/script/identify.php) parancs segítségével egy képfájlról kaphatunk információt. Ez nem egyszerűen az 
-[EXIF információkat](http://commandline.blog.hu/2010/05/14/exiftool) jelenti, hanem annál sokkal bővebb információhalmazt: 
+[EXIF információkat](/2010/05/14/exiftool) jelenti, hanem annál sokkal bővebb információhalmazt: 
 ```
 [gep]$ identify -verbose 38110037.tif
  Image: 38110037.tif

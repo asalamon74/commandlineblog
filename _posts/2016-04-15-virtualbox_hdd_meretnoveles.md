@@ -12,7 +12,7 @@ categories:
 ---
 
 A szokásokkal ellentétben most nem egy parancsot mutatok be, hanem egy valódi probléma megoldását. Hasonlóan a korábbi 
-[HDD - SSD](http://commandline.blog.hu/2011/11/25/hdd_le-rol_ssd-re) cseréhez.
+[HDD - SSD](/2011/11/25/hdd_le-rol_ssd-re) cseréhez.
 
 Linux alatt virtualboxban (5.0.14) fut egy windowsos gépem, ahol 10GB-os mérete van a C: drive-nek. Nem tudom miért csak ekkora méretet választottam, valószínűleg azt gondoltam elég lesz. De nyilván nem lett elég. Később egy új HDD-t is adtam a virtuális gépnek és átpakoltam pár dolgot, de újabban megint kicsinek tűnik a C: drive, windows egyfolytában panaszkodik, takarítás sem segített. Vagyis a feladat a virtuális gépen a C: drive méretének megnövelése, nyilván újrainstall nélkül. Leginkább 
 [ezt](http://www.libtronics.com/2011/07/resize-virtualbox-disk-for-winxp-guest.html)a leírást próbáltam követni, de sokmindent másként kellett csinálnom.
@@ -43,7 +43,7 @@ Vagyis 3 meghajtó van a gépen. nyul_xp.vdi (C:) és nyul_xp_second.vdi (E:) me
 Hogy miért van 4.1.18-as VBoxGuestAdditions az 5-ös virtualboxomban azt nem tudom, de most nem is fontos.
 
 Letöltöttem 
-[gparted live](http://commandline.blog.hu/2011/11/10/gparted_live)-ot, és ezt teszem a virtuális gép virtuális DVD-meghajtójába:
+[gparted live](/2011/11/10/gparted_live)-ot, és ezt teszem a virtuális gép virtuális DVD-meghajtójába:
 
 ```
 VBoxManage storageattach "nyul_xp" --storagectl "IDE Controller" --port 1 --device 0 --type dvddrive --medium /path/gparted-live-0.25.0-3-i686.iso

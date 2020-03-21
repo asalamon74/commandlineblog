@@ -11,7 +11,7 @@ categories:
 ---
 
 Jelszóval védhetjük pdf fájljainkat 
-[pdftk](http://commandline.blog.hu/2012/02/03/pdftk) segítségével:
+[pdftk](/2012/02/03/pdftk) segítségével:
 
 ```
 echo 'titok' > titok.txt
@@ -20,7 +20,7 @@ pdftk titok.pdf output titok_jelszo.pdf user_pw 1234
 ```
 
 A példában előszöt titok.pdf fájlt készítettem (
-[ssconverttel](http://commandline.blog.hu/2012/10/09/ssconvert)), majd az 1234 jelszót állítottam be.
+[ssconverttel](/2012/10/09/ssconvert)), majd az 1234 jelszót állítottam be.
 
 Ha nem szeretnénk a parancssorba begépelni a jelszót (pl. mert bash history-ba bekerülne), akkor lehetőség van erre is:
 

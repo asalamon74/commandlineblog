@@ -10,7 +10,7 @@ categories:
 ---
 
 Az 
-[előző bejegyzés](http://commandline.blog.hu/2016/07/02/sparse_fajlok)ben mutattam egy példát arra, hogyan lehet dd-vel lassan "rendes" és gyorsan sparse fájlt gyártani. Nyilván felmerül a kérdés, van-e mód arra, hogy gyorsan gyártsunk rendes fájlt. Számomra kissé meglepő módon van:
+[előző bejegyzés](/2016/07/02/sparse_fajlok)ben mutattam egy példát arra, hogyan lehet dd-vel lassan "rendes" és gyorsan sparse fájlt gyártani. Nyilván felmerül a kérdés, van-e mód arra, hogy gyorsan gyártsunk rendes fájlt. Számomra kissé meglepő módon van:
 
 ```
 $ time fallocate -l 1G fallocateg.txt

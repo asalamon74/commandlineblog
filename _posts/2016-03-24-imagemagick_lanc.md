@@ -30,7 +30,7 @@ convert temp9.png temp10.png -compose Plus -composite output.png
 ```
 
 Az nem túl fontos, hogy mit csinál a script, de látszik, hogy 11 lépésből áll, közben rengeteg ideiglenes fájlt gyárt ( amit 
-[trap](http://commandline.blog.hu/2016/03/17/trap_948)-pel illik a végét letakarítani ).
+[trap](/2016/03/17/trap_948)-pel illik a végét letakarítani ).
 
 A fenti scriptet átírthatjuk úgy, hogy egyetlen egy parancs legyen:
 

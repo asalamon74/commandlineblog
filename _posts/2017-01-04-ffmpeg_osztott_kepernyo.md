@@ -8,7 +8,7 @@ categories:
 ---
 
 Az 
-[előző](http://commandline.blog.hu/2017/01/01/videostabilizalas) bejegyzésemben szerepelt két osztott képernyős felvétel, amit ffmpeggel készítettem.
+[előző](/2017/01/01/videostabilizalas) bejegyzésemben szerepelt két osztott képernyős felvétel, amit ffmpeggel készítettem.
 
 Az első felvételnél két videót ragasztottam egymás mellé, így a két 1920x1080-as videóból egy 3840x1080-as videót kaptam:
 

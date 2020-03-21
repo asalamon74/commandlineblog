@@ -9,8 +9,8 @@ categories:
 ---
 
 Már írtam arról, miként tudunk 
-[rpm-et készíteni .src.rpm](http://commandline.blog.hu/2011/07/08/rpm_keszitese_src_rpm_bol)-ből, és arrról is, miként lehet egy programhoz 
-[patchet készíteni](http://commandline.blog.hu/2012/02/27/patch_keszitese). Most a két dolgot kötöm össze, vagyis azt írom le, miként lehet egy .src.rpm-et úgy lefordítani, hogy használja a saját patchünket.
+[rpm-et készíteni .src.rpm](/2011/07/08/rpm_keszitese_src_rpm_bol)-ből, és arrról is, miként lehet egy programhoz 
+[patchet készíteni](/2012/02/27/patch_keszitese). Most a két dolgot kötöm össze, vagyis azt írom le, miként lehet egy .src.rpm-et úgy lefordítani, hogy használja a saját patchünket.
 
 Előkészületként érdemes a két lépést külön kipróbálni, vagyis arról is győződjünk meg, hogy működik a patchünk, és arról is, hogy patch nélkül le tudjuk fordítani a forrás rpm-et!
 

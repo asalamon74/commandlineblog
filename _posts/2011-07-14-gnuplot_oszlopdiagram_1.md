@@ -10,7 +10,7 @@ categories:
 A 
 [gnuplot](http://www.gnuplot.info/) egy rendkívül összetett adat- és függvényábrázoló program. Ingyenes, számtalan operációs rendszeren elérhető. Bonyolultságát mutatja az is hogy külön könyvek foglalkoznak vele, és sajnos az is, hogy eleinte elég nehezen konfigurálhatónak tűnik. 
 A példában az exiftool segítségével készített 
-[statisztikát](http://commandline.blog.hu/2011/07/11/statisztika_keszitese_exiftool_segitsegevel) szeretném megjeleníteni gnuplot segítségével. A graph.plt fájlban írjuk le mit szeretnénk megjeleníteni: 
+[statisztikát](/2011/07/11/statisztika_keszitese_exiftool_segitsegevel) szeretném megjeleníteni gnuplot segítségével. A graph.plt fájlban írjuk le mit szeretnénk megjeleníteni: 
 ```
 set xlabel 'focal length'
  set style data histograms

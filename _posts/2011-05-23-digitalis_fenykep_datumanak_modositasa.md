@@ -10,7 +10,7 @@ categories:
 ---
 
 Ha a digitális fényképezőgépen véletlenül pontatlanul állítjuk be a dátumot akkor 
-[exiftool](http://commandline.blog.hu/2010/05/14/exiftool) segítségével javíthatjuk ki a hibát. Tételezzük fel (csak a teszt kedvéért persze), hogy 1 nappal elállítottam véletlenül a dátumot: 
+[exiftool](/2010/05/14/exiftool) segítségével javíthatjuk ki a hibát. Tételezzük fel (csak a teszt kedvéért persze), hogy 1 nappal elállítottam véletlenül a dátumot: 
 ```
 $ exiftool -a imgp1955.dng | grep 2011
  File Modification Date/Time     : 2011:05:21 08:03:30+02:00

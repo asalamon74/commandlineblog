@@ -10,8 +10,8 @@ categories:
 ---
 
 A 
-[pv ( pipe viewer )](http://commandline.blog.hu/2010/02/18/pipe_viewer) és a 
-[cdialog](http://commandline.blog.hu/2013/05/17/cdialog) együttes használatával elég könnyen tudunk egy hosszú műveletről folyamatos tájékoztatást adni.
+[pv ( pipe viewer )](/2010/02/18/pipe_viewer) és a 
+[cdialog](/2013/05/17/cdialog) együttes használatával elég könnyen tudunk egy hosszú műveletről folyamatos tájékoztatást adni.
 
 A "nyers" pv parancs így néz ki:
 

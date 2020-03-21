@@ -8,7 +8,7 @@ categories:
 ---
 
 Nagyon kényelmes az aliasok használata ( egy 
-[feh-es példát](http://commandline.blog.hu/2012/06/15/alias_787) én is mutattam már ), viszont időnként hasznos, ha a parancs eredeti változatát tudjuk futtatni az aliasolt helyett. Egyetlen plusz karakterre van szükségünk bash alatt:
+[feh-es példát](/2012/06/15/alias_787) én is mutattam már ), viszont időnként hasznos, ha a parancs eredeti változatát tudjuk futtatni az aliasolt helyett. Egyetlen plusz karakterre van szükségünk bash alatt:
 
 ```
 \parancs

@@ -10,8 +10,8 @@ categories:
 ---
 
 Ha XML fájlokat kell összehasonlítanom, akkor a 
-[diff](http://commandline.blog.hu/2011/09/04/diff_1)nem mindig túl hasznos, főleg ha nem én gyártottam az összehasonlítandó XML-eket. Egyrészt előfordul, hogy az XML gyártásnál nem használnak sortörést, másrészt pl. az attributumok sorrendje sem feltétlenül fix. 
-[Process helyettesítés](http://commandline.blog.hu/2011/09/07/diff_process_helyettesites) és 
+[diff](/2011/09/04/diff_1)nem mindig túl hasznos, főleg ha nem én gyártottam az összehasonlítandó XML-eket. Egyrészt előfordul, hogy az XML gyártásnál nem használnak sortörést, másrészt pl. az attributumok sorrendje sem feltétlenül fix. 
+[Process helyettesítés](/2011/09/07/diff_process_helyettesites) és 
 [xmllint](http://xmlsoft.org/xmllint.html) segítségével már jobban össze lehet hasonlítani az XML fájlokat:
 
 ```

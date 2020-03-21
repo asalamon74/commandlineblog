@@ -10,7 +10,7 @@ categories:
 ---
 
 Írtam már egyszer korábban az 
-[animgif gyártásáról](https://commandlineblog.melda.info/2013/05/23/animgif_890), de amikor legutóbb akartam használni az ott leírt módszert, igen csúnya lett az animgif. Egy animgifben csak 256 különböző lehet minden képben és ffmpeg alapesetben ugyanazt a palettát használja, függetlenül a videó színvilágától. Jobb eredményt lehet elérni, ha külön palettát készítünk a videó alapján:
+[animgif gyártásáról](/2013/05/23/animgif_890), de amikor legutóbb akartam használni az ott leírt módszert, igen csúnya lett az animgif. Egy animgifben csak 256 különböző lehet minden képben és ffmpeg alapesetben ugyanazt a palettát használja, függetlenül a videó színvilágától. Jobb eredményt lehet elérni, ha külön palettát készítünk a videó alapján:
 
 ```
 ffmpeg -i input.mkv -vf "scale=320:-1:flags=lanczos,fps=25,palettegen" -y palette.png 

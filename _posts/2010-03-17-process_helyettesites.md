@@ -11,7 +11,7 @@ categories:
 ---
 
  A named pipe 
-[bemutatásakor](http://commandline.blog.hu/2010/03/08/named_pipe) a következő példát: 
+[bemutatásakor](/2010/03/08/named_pipe) a következő példát: 
 ```
 tcextract -i mozi.vob -t vob -x mpeg2 > mozi.m2v
  tcextract -i mozi.vob -t vob -x ac3 > mozi.ac3 
@@ -59,4 +59,4 @@ tcextract
 ```
  nem fájlból, hanem standard inputról olvas). 
 Érdemes még megjegyezni, hogy a process helyettesítés (process substitution) nem összekeverendő a 
-[parancsbehelyettesítés](http://commandline.blog.hu/2010/03/14/parancs_behelyettesites)sel (command substitution).
+[parancsbehelyettesítés](/2010/03/14/parancs_behelyettesites)sel (command substitution).

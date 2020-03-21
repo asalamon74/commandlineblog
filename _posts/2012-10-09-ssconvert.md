@@ -17,7 +17,7 @@ ssconvert konyvek.gnumeric konyvek.xls
 ```
 
 Ha 
-[tömörebben](http://commandline.blog.hu/2010/04/20/bash_zarojeles_kiegeszites) szeretnénk írni:
+[tömörebben](/2010/04/20/bash_zarojeles_kiegeszites) szeretnénk írni:
 
 ```
 ssconvert konyvek.{gnumeric,xls}

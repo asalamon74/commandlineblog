@@ -9,7 +9,7 @@ categories:
 ---
 
 Korábban 
-[írtam](http://commandline.blog.hu/2010/01/28/bash_ctrl_r) róla, miként tudunk 
+[írtam](/2010/01/28/bash_ctrl_r) róla, miként tudunk 
 ```
 ctrl-r
 ```

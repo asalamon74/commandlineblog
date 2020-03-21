@@ -10,7 +10,7 @@ categories:
 ---
 
 Egy digitális fénykép nagyon sok információt tárol a készítés körülményeiről, melyekből érdekes statisztikákat készíthetünk 
-[exiftool](http://commandline.blog.hu/2010/05/14/exiftool) segítségével. A következő egyszerű példa a használt gyújtótávolság (fókuszhossz) alapján vizsgálja meg a készített képeket: 
+[exiftool](/2010/05/14/exiftool) segítségével. A következő egyszerű példa a használt gyújtótávolság (fókuszhossz) alapján vizsgálja meg a készített képeket: 
 ```
 exiftool -T -FocalLengthIn35mmFormat *.dng | cut -f 1 -d ' ' | sort | uniq -c
 ``` 

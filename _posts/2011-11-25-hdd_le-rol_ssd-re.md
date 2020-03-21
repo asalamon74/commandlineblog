@@ -31,7 +31,7 @@ A korábbi bejegyzésekkel ellentétben itt nem egy parancsot mutatok be, hanem 
 
 
 Egy 
-[pendrive-ról](http://commandline.blog.hu/2011/11/10/gparted_live) bootoltam Linuxot, így nem volt szükség külön linuxos gépre. A következő eszközökre fogok hivatkozni a leírásban:
+[pendrive-ról](/2011/11/10/gparted_live) bootoltam Linuxot, így nem volt szükség külön linuxos gépre. A következő eszközökre fogok hivatkozni a leírásban:
 
 * /dev/sda:  Az eredeti 80GB-os HDD.
 
@@ -50,7 +50,7 @@ Ha valaki a leírást szeretné követni, akkor persze ellenőrizze, hogy nála 
 
 
 Első lépésként a régi merevlemez teljes tartalmát 
-[elmentettem](http://commandline.blog.hu/2011/11/13/dd_merevlemez_backup) egy nagy fájlba:
+[elmentettem](/2011/11/13/dd_merevlemez_backup) egy nagy fájlba:
 
 ```
 mkdir /mnt/diskc
@@ -77,7 +77,7 @@ Disk identifier: 0x94e494c4
 ```
 
 A 2. partíció a Windows XP install anyagát tartalmazza, ezt nem fogom átmásolni az SSD-re, a továbbiakban csak az 1. partícióval foglalkozok. Az első partíciót 
-[losetup](http://commandline.blog.hu/2011/11/22/losetup) segítségével érhetjük el:
+[losetup](/2011/11/22/losetup) segítségével érhetjük el:
 
 ```
 losetup -o $((63*512)) /dev/loop1 /mnt/diskc/sda.img
@@ -147,7 +147,7 @@ Látszik az is, hogy itt már nem a 63. szektoron kezdődik a partíció, hanem 
 
 
 A már korábban említett 
-[losetup](http://commandline.blog.hu/2011/11/22/losetup) segítségével létrehoztam egy eszközt ami a SSD 1. partíciójára mutat, és átmásoltam az átméretezett partíció tartalmát (63.5GB-ot).
+[losetup](/2011/11/22/losetup) segítségével létrehoztam egy eszközt ami a SSD 1. partíciójára mutat, és átmásoltam az átméretezett partíció tartalmát (63.5GB-ot).
 
 ```
 losetup -o $((2048*512)) /dev/loop2 /dev/sdd
@@ -160,7 +160,7 @@ dd if=/dev/loop1 of=/dev/loop2 bs=512 count=$((63500000000/512))
 Ahogy a már említett 
 [NTFS Boot leírás](http://thestarman.pcministry.com/asm/mbr/NTFSBR.htm) említi, illetve ahogy némileg érthetőbben 
 [itt](http://www.2pi.info/software/copying-windows-new-hard-drive.html) is le van írva, mivel az SSD-n az 1. partíció nem ugyanazon a pozíción kezdődik mint ahogy a HDD-n kezdődőtt, ezért módosítanunk kell a partíció első szektorában a "Hidden Sector Count" értékét. A következő 
-[dump](http://commandline.blog.hu/2010/03/20/dump) mutatja az 1. partíció tartalmának első 32 byte-ját:
+[dump](/2010/03/20/dump) mutatja az 1. partíció tartalmának első 32 byte-ját:
 
 ```
 0000000 eb 52 90 4e 54 46 53 20 20 20 20 00 02 08 00 00
@@ -170,7 +170,7 @@ Ahogy a már említett
 
 A kijelölt rész a következő 3 számot tartalmazza (
 [little endian](http://hu.wikipedia.org/wiki/Byte-sorrend) byte-sorrendben):  63, 240, 63. Az első két számot nem módosítottam, de a 3. számot 2048-ra írtam át 
-[xxd](http://commandline.blog.hu/2011/11/19/xxd_382) segítségével:
+[xxd](/2011/11/19/xxd_382) segítségével:
 
 ```
 echo 00: 3F 00 F0 00 00 08 | xxd -r > /mnt/diskc/ntfs_change.dat

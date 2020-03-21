@@ -20,4 +20,4 @@ for i in *.jpg; do echo \![$i]\($i\); done > alljpgs.txt ebook-convert alljpgs.t
 ```
 
 Valamiért nem sikerült 1 soros megoldást adnom, pedig próbálkoztam 
-[process helyettesítéssel](http://commandline.blog.hu/2010/03/17/process_helyettesites). Ha valaki tud 1 soros megoldást, kérem írja meg!
+[process helyettesítéssel](/2010/03/17/process_helyettesites). Ha valaki tud 1 soros megoldást, kérem írja meg!

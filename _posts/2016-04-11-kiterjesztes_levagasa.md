@@ -9,7 +9,7 @@ categories:
 ---
 
 Valójában csak azért írtam pár napja a 
-[basename](http://commandline.blog.hu/2016/04/08/basename)-ról, hogy egy hiányosságára felhívjam a figyelmet. Ha egy scriptünk jpg fájlokkal dolgozik, akkor könnyen levághatjuk a kiterjesztést:
+[basename](/2016/04/08/basename)-ról, hogy egy hiányosságára felhívjam a figyelmet. Ha egy scriptünk jpg fájlokkal dolgozik, akkor könnyen levághatjuk a kiterjesztést:
 
 ```
 $ basename alma.jpg .jpg

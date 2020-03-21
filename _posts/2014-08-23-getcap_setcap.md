@@ -32,4 +32,4 @@ Vagyis először lekérdezve látszik, hogy a programnak nincs semmilyen külön
 1. megjegyzés: A legtöbb helyen azt írják, a CAP_SYS_RAWIO olyan erős jogosultság, hogy ennyi erővel akár rootként is lehetne futtatni a programot, az sem lenne sokkal nagyobb biztonsági rés.
 
 2. megjegyzés: Elég alattomos mellékhatás, hogy nem igazán látszik, hogy egy programnak valami különleges jogosultsága van. A setuid bitet mondjuk sokan felismerik, de az alap ls -l nem ír ki semmit amiből látszik a különleges jog. Szerencsére a 
-[színes ls](http://commandline.blog.hu/2014/08/20/ls_szinek) piros színnel jelzi ezt.
+[színes ls](/2014/08/20/ls_szinek) piros színnel jelzi ezt.

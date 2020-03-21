@@ -8,7 +8,7 @@ categories:
 ---
 
 Nagyon hasznosnak tartom a 
-[szimbolikus linkeket](http://commandline.blog.hu/2011/07/27/szimbolikus_link_modositasa), de ha letöröljük a fájlt amire mutatnak, akkor semmilyen hibajelzést nem kapunk, vagyis ha nem figyelünk egy idő után elszaporodnak a hibás szimbolikus linkek. Legegyszerűbb a következő módon kereshetjük meg a hibás linkeket:
+[szimbolikus linkeket](/2011/07/27/szimbolikus_link_modositasa), de ha letöröljük a fájlt amire mutatnak, akkor semmilyen hibajelzést nem kapunk, vagyis ha nem figyelünk egy idő után elszaporodnak a hibás szimbolikus linkek. Legegyszerűbb a következő módon kereshetjük meg a hibás linkeket:
 
 ```
 $ find . -type l -xtype l

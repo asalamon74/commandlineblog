@@ -25,7 +25,7 @@ tömörítőprogram
 [bzip2](http://www.bzip.org/) 
   
 Lehetőségünk van a felsoroltakon kívül 
-[más tömörítőprogram használatára](http://commandline.blog.hu/2010/01/13/tar_pbzip2) is. 
+[más tömörítőprogram használatára](/2010/01/13/tar_pbzip2) is. 
 Egyrészt persze hasznos hogy sok tömörítőprogram közül választhatunk, másrészt könnyen összekeverhetjük a kapcsolókat. Sokkal egyszerűbb, ha az automatikus tömörítőprogram választást használjuk. 
 Kitömörítésnél egyszerűen lehagyhatjuk a tömörítőprogram kiválasztását befolyásoló kapcsolót, és tar a kiterjesztés alapján választ. Vagyis 
 ```

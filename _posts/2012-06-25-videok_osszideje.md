@@ -15,7 +15,7 @@ find -type f -name "*.mp4" -print0 | xargs -0  mplayer -vo dummy -ao dummy -ide
 
 A működés rövid magyarázata:
 
-* [find](http://commandline.blog.hu/2010/11/14/find_2) segítségével megkeressük a minket érdeklő fájlokat ( Az eredeti példában .avi szerepelt, nekem .mp4-re volt szükségem )
+* [find](/2010/11/14/find_2) segítségével megkeressük a minket érdeklő fájlokat ( Az eredeti példában .avi szerepelt, nekem .mp4-re volt szükségem )
 
 
 * mplayer segítségével sok-sok infót iratunk ki ( innen látszik, hogy a script mindennel elboldogul, amit mplayer kezelni tud )
@@ -28,4 +28,4 @@ A működés rövid magyarázata:
 
 
 * A 
-[tail](http://commandline.blog.hu/2010/08/31/head_tail) miatt csak a legutolsó sor, a végösszeg íródik ki.
+[tail](/2010/08/31/head_tail) miatt csak a legutolsó sor, a végösszeg íródik ki.

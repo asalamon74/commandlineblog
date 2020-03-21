@@ -37,13 +37,13 @@ rm alma.txt
  ln -s alma-2.3.5.txt alma.txt
 ``` 
 A két parancsot persze 
-[&&](http://commandline.blog.hu/2010/02/06/bash_parancsok_egymas_utan) segítségével kötöttem össze. 
+[&&](/2010/02/06/bash_parancsok_egymas_utan) segítségével kötöttem össze. 
 Nemrég botlottam bele egy sokkal egyszerűbb megoldásba: 
 ```
 ln -sf alma-2.3.5.txt alma.txt
 ``` 
 Ha pedig még 
-[kevesebbet](http://commandline.blog.hu/2010/04/20/bash_zarojeles_kiegeszites) szeretnénk gépelni: 
+[kevesebbet](/2010/04/20/bash_zarojeles_kiegeszites) szeretnénk gépelni: 
 ```
 ln -sf alma{-2.3.5,}.txt
 ``` 

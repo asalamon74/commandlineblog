@@ -10,7 +10,7 @@ categories:
 ---
 
 Nagyon sokszor használom a 
-[diff](http://commandline.blog.hu/2011/09/04/diff_1) parancsot, de időnként nehéz értelmezni az eredményt, a kacsacsőrök miatt könnyű összekeverni a fájlokat. Másnak is feltűnt ez, így elkészítették a 
+[diff](/2011/09/04/diff_1) parancsot, de időnként nehéz értelmezni az eredményt, a kacsacsőrök miatt könnyű összekeverni a fájlokat. Másnak is feltűnt ez, így elkészítették a 
 [colordiff](http://www.colordiff.org/) programot, ami színkódokkal jelzi, hogy melyik rész melyik fájlhoz tartozik:
 
 ```

@@ -9,7 +9,7 @@ categories:
 ---
 
 Fényképek GPS koordinátáját legegyszerűbben 
-[exiftoollal](http://commandline.blog.hu/2010/05/14/exiftool) állíthatjuk be:
+[exiftoollal](/2010/05/14/exiftool) állíthatjuk be:
 
 ```
 exiftool -GPSLongitudeRef=E -GPSLongitude=16.8436 -GPSLatitudeRef=N -GPSLatitude=46.8451 *.jpg

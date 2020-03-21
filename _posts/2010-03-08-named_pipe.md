@@ -11,7 +11,7 @@ categories:
 ---
 
 A dvdauthor parancssoros használatát bemutató 
-[bejegyzésben](http://commandline.blog.hu/2010/03/05/dvdauthor) szerepelt az alábbi kódrészlet: 
+[bejegyzésben](/2010/03/05/dvdauthor) szerepelt az alábbi kódrészlet: 
 ```
 tcextract -i mozi.vob -t vob -x mpeg2 > mozi.m2v
  tcextract -i mozi.vob -t vob -x ac3 > mozi.ac3 
@@ -48,7 +48,7 @@ mozi.vob
 cat
 ```
  paranccsal olvassuk ki a vob fájlt, a 
-[tee](http://commandline.blog.hu/2010/03/02/tee_4) segítségével pedig egyszerre öntjük bele a kiolvasott adatot a 2 csőbe. Az 
+[tee](/2010/03/02/tee_4) segítségével pedig egyszerre öntjük bele a kiolvasott adatot a 2 csőbe. Az 
 ```
 mplex
 ```

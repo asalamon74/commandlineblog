@@ -12,7 +12,7 @@ categories:
 ---
 
 A 
-[DVD-hez](http://commandline.blog.hu/2010/01/10/dd_dvd_backup) hasonló módon egy teljes merevlemezről is készíthetünk biztonsági mentést:
+[DVD-hez](/2010/01/10/dd_dvd_backup) hasonló módon egy teljes merevlemezről is készíthetünk biztonsági mentést:
 
 ```
 dd if=/dev/sda of=hdd_image.img

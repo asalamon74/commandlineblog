@@ -10,7 +10,7 @@ categories:
 ---
 
 A korábban már 
-[említett](http://commandline.blog.hu/2010/01/22/imagemagick) 
+[említett](/2010/01/22/imagemagick) 
 [imagemagick](http://www.imagemagick.org/) segítségével egyetlen utasítással pdf-et készíthetünk különálló képekből: 
 ```
 convert *.jpg kepek.pdf

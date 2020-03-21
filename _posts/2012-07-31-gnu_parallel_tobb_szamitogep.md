@@ -8,7 +8,7 @@ categories:
 - parallel
 ---
 
-[Dicsértem](http://commandline.blog.hu/2012/05/03/gnu_parallel) már 
+[Dicsértem](/2012/05/03/gnu_parallel) már 
 [GNU parallel](http://www.gnu.org/software/parallel/)t, a korábbi példákban csak egyetlen számítógépet használtam. Parallel képes arra is, hogy az elvégzendő feladatot több számítógép között ossza szét. Itt most egy elég speciális esetet mutatok be, valójában nem osztjuk szét a feladatot, hanem inkább átadjuk egy gyorsabb számítógépnek.
 
 Vegyünk egy alkönyvtárat, ahol sok jpg fájl van, ezeket szeretnénk png-re konvertálni és közben ( csak hogy lassabb legyen ) még egy kicsit életleníteni. A következő parancsot futtatjuk egy fájlra:
@@ -43,6 +43,6 @@ Több dolog is szükséges ahhoz, hogy a fenti parancs működjön:
 * Azt a programot is fel kell installálnunk, amit a parallel meghív ( példában: convert ),
 
 
-* [Jelszó nélkül](http://commandline.blog.hu/2012/07/27/ssh_jelszo_nelkul) be kell tudnunk lépni a másik gépre ssh-val.
+* [Jelszó nélkül](/2012/07/27/ssh_jelszo_nelkul) be kell tudnunk lépni a másik gépre ssh-val.
 
 A parancs futtatásához 2 perc 20 másodperc kell, ami persze lényegesen több a 48 másodpercnél ( a fájlok másolása, a parancsok ütemezése elvesz némi időt ), de sokkal gyorsabb a kiinduló 12 perc 17 másodpercnél.

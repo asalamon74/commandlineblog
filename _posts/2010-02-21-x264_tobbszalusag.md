@@ -14,7 +14,7 @@ categories:
 Manapság az egyik leginkább időigényes feladat amit egy átlagszámítógép végez, a videókonvertálás. Különösen fontos, hogy többmagos processzorunk összes magja ki legyen használva ilyenkor. Az egyik legismertebb linuxos h264 kódoló, az 
 [x264](http://www.videolan.org/developers/x264.html) szerencsére támogatja a többszálúságot. 
 Attól függően, milyen módon használjuk, eltérő a többszálúság bekapcsolásának módja. Én transcode-ot használok ffmpeg export modullal ( 
-[itt](http://commandline.blog.hu/2010/02/15/mjpeg_konvertalasa) egy példa ), ebben az esetben az 
+[itt](/2010/02/15/mjpeg_konvertalasa) egy példa ), ebben az esetben az 
 ```
 ffmpeg.cfg
 ```

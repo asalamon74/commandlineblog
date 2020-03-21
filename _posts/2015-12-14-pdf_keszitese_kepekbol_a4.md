@@ -11,7 +11,7 @@ categories:
 ---
 
 Jópár évvel ezelőtt 
-[írtam](http://commandline.blog.hu/2010/03/23/pdf_keszitese_kepekbol), hogy képekből így lehet pdf-et készíteni:
+[írtam](/2010/03/23/pdf_keszitese_kepekbol), hogy képekből így lehet pdf-et készíteni:
 
 ```
 convert *.jpg kepek.pdf

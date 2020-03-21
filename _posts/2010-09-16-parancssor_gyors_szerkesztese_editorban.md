@@ -11,7 +11,7 @@ categories:
 ---
 
 Ha éppen valami igen bonyolult parancssort editálunk, akkor könnyen lehet, hogy a shell beépített 
-[egyszerű editora](http://commandline.blog.hu/2010/04/23/bash_soreditalas) helyett szívesebben használnánk kedvenc editorunkat (emacs, vi, ...). Persze készíthetünk az éppen editált parancssor helyett egy 1 soros scriptet, amit külön editorban editálunk, de ha ez az editálás kellős-közepén jut eszünkbe (többnyire akkor szokott), akkor ez nem túl kényelmes. 
+[egyszerű editora](/2010/04/23/bash_soreditalas) helyett szívesebben használnánk kedvenc editorunkat (emacs, vi, ...). Persze készíthetünk az éppen editált parancssor helyett egy 1 soros scriptet, amit külön editorban editálunk, de ha ez az editálás kellős-közepén jut eszünkbe (többnyire akkor szokott), akkor ez nem túl kényelmes. 
 Ehelyett sokkal egyszerűbb, ha az editálás közben lenyomjuk a következő billentyűkombinációt: 
 ```
 ctrl-x ctrl-e
