@@ -1,0 +1,1103 @@
+--- !ruby/object:Comment
+post_id: '12759166'
+post_title: unbuffer
+author_name: ''
+author_email: ''
+author_url: ''
+content: Ez nekem is új volt...
+created_at: 2017-08-19 10:01:34.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '12759166'
+post_title: unbuffer
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2017/08/19/unbuffer?full_commentlist=1#c33612588"
+  class="reply_nick_1228697" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 33612588 );">@hullajelölt88</a>: Jó pap
+  holtig tanul.'
+created_at: 2017-09-05 14:27:53.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '12456167'
+post_title: jhead fájlátnevezés
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  Szia!<br />
+  <br />
+  Ha már megszólítattam!:)<br />
+  Ha több géppel fotózol, és azt szeretnéd, hogy a dátumok és esetleg a fényképezőgép gyártmánya és típusa is szerepeljen a fájlnévben, azt alighanem megcsinálja az exiftool is.<br />
+  Ha az általad vázolt verziót szeretnéd megoldani exiftool segítségével, akkor azt még meg kell néznem. Este próbálok választ adni!<br />
+  <br />
+  Szia
+created_at: 2017-05-04 16:22:52.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '12456167'
+post_title: jhead fájlátnevezés
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: Egy idő után azért rájöttem, hogy nem szerencsés, hogy minden fényképezőgépem
+  IMGPxxxx fájlokat gyárt. Szerencsére a gépen át lehet ezt írni tetszőleges 4 betűre.
+  Ezzel már nem kell exiftool-ban foglalkoznom.
+created_at: 2017-05-05 07:45:24.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '12456167'
+post_title: jhead fájlátnevezés
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  Szia!<br />
+  <br />
+  Erre gondolsz?<br />
+  exiftool '-filename&lt;${CreateDate}_%f.%e' -d %Y%m%d_%H%M%S /home/user/pictures/*<br />
+  Eredmény:<br />
+  Az IMG_6745.jpg fájl új neve 20150419_133518_IMG_6745.jpg lesz.<br />
+  <br />
+  A fenti parancsot megbolondíthatod így is:<br />
+  exiftool '-filename&lt;${CreateDate}_$(make;}_%f.%e' -d %Y%m%d_%H%M%S /home/user/pictures/*<br />
+  <br />
+  Eredmény:<br />
+  Az IMG_6745.jpg fájl új neve 20150419_133518_Canon_IMG_6745.jpg fájl lesz.<br />
+  <br />
+  És még:<br />
+  exiftool '-filename&lt;${CreateDate}_$(model;}_%f.%e' -d %Y%m%d_%H%M%S /home/user/pictures/*<br />
+  <br />
+  Eredmény:<br />
+  Az IMG_6745.jpg fájl új neve 20150419_133518_Canon EOS 550D_IMG_6745.jpg fájl lesz.<br />
+  <br />
+  Ha nem erre gondoltál, akkor valószínűleg nem sikerült feldolgoznom a leírásodat! :-)<br />
+  <br />
+  Szia,<br />
+  otegi
+created_at: 2017-05-08 18:27:09.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '12456167'
+post_title: jhead fájlátnevezés
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2017/04/30/jhead_fajlatnevezes?full_commentlist=1#c33011087" class="reply_nick_444042" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 33011087 );">@otegi</a>: Igen, pont erre gondoltam, köszi.<br />
+  <br />
+  Láthatóan exiftool (itt is) sokkal többet tud, bármilyen exif mezőt bele lehet tenni a fájlnévbe.
+created_at: 2017-05-09 07:19:58.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '12103843'
+post_title: lsof port
+author_name: Hóhér az utolsó barátod
+author_email: drhoher@indamail.hu
+author_url: http://internetszemete.blog.hu
+content: |-
+  Vagy ha nem a busybox adja a netstat funkciót, akkor netstat -p is jó lehet.<br />
+  (Ha lsof nincs telepítve)
+created_at: 2017-01-07 13:34:54.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '12103843'
+post_title: lsof port
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2017/01/07/lsof_port?full_commentlist=1#c32103155"
+  class="reply_nick_1036000" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 32103155 );">@Hóhér az utolsó barátod</a>:
+  netstattal próbálkoztam (próbálkoztunk kollégámmal) először, de valahogy nem igazán
+  ment. Talán éppen busybox miatt? lsof működött rendben.'
+created_at: 2017-01-07 14:46:16.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '12103843'
+post_title: lsof port
+author_name: Hóhér az utolsó barátod
+author_email: drhoher@indamail.hu
+author_url: http://internetszemete.blog.hu
+content: |-
+  <a href="http://commandline.blog.hu/2017/01/07/lsof_port?full_commentlist=1#c32103579" class="reply_nick_13905" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 32103579 );">@sala</a>: könnyen lehet...<br />
+  ls -l $(which netstat)<br />
+  Ha symlinket látsz és a busybox-ra mutat, akkor valószínű ;)
+created_at: 2017-01-07 16:34:45.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '8853758'
+post_title: sparse fájlok
+author_name: Hóhér az utolsó barátod
+author_email: drhoher@indamail.hu
+author_url: http://internetszemete.blog.hu
+content: "$((1024*1024)) helyett használj nyugodtan 1M-t! ;)"
+created_at: 2016-07-02 12:59:17.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '8853758'
+post_title: sparse fájlok
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2016/07/02/sparse_fajlok?full_commentlist=1#c30695994" class="reply_nick_1036000" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 30695994 );">@Hóhér az utolsó barátod</a>: Az úgy túl egyszerű lenne. :)<br />
+  <br />
+  Valójában sosem tudom megjegyezni, melyik program ért 1M-en 1000*1000-et, melyik 1024*1024-at...
+created_at: 2016-07-02 13:29:43.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '8121962'
+post_title: DNG tömörítés
+author_name: Hóhér az utolsó barátod
+author_email: drhoher@indamail.hu
+author_url: http://internetszemete.blog.hu
+content: Furcsa. Azt hittem, a DNG csendben kimúlt.
+created_at: 2015-11-29 16:32:01.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '8097800'
+post_title: pdf jelszó feltörése
+author_name: Hóhér az utolsó barátod
+author_email: drhoher@indamail.hu
+author_url: http://internetszemete.blog.hu
+content: |-
+  Nem ismerem a programot, de öt perc nagyon soknak tűnik. Lehet, hogy tisztán brute force-t használ?<br />
+  Kíváncsi lennék, hogy a szótár adatbázisokból dolgozó programok adatbázisaiban milyen passwordök szerepelnek, de ahol találtam ilyen listát, azt nem szívesen nyitnám meg, megbízható helyen meg úgy tűnik, nem publikálnak ilyesmit.
+created_at: 2015-11-23 09:17:21.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '8097800'
+post_title: pdf jelszó feltörése
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2015/11/23/pdf_jelszo_feltorese?full_commentlist=1#c28645416"
+  class="reply_nick_1036000" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 28645416 );">@Hóhér az utolsó barátod</a>:
+  Igen, alapesetben simán brute-force-t használ.'
+created_at: 2015-11-23 09:20:54.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '7750670'
+post_title: man
+author_name: uzsolt
+author_email: udvzsolt@gmail.com
+author_url: ''
+content: |-
+  Ha<br />
+  apropos '\bstat\b'<br />
+  módon használod, nem kell plusz grep.
+created_at: 2015-09-05 12:35:56.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '7750670'
+post_title: man
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  Kösz, nem rossz. Bár nekem bővebb eredményt ad:<br />
+  <br />
+  $ apropos '\bstat\b'<br />
+  File::stat           (3pm)  - by-name interface to Perl's built-in stat() functions<br />
+  fstat [stat]         (2)  - get file status<br />
+  lstat [stat]         (2)  - get file status<br />
+  stat                 (2)  - get file status<br />
+  stat                 (3p)  - get file status<br />
+  sys/stat.h [sys_stat] (0p)  - data returned by the stat() function
+created_at: 2015-09-06 06:28:01.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '7750670'
+post_title: man
+author_name: uzsolt
+author_email: udvzsolt@gmail.com
+author_url: ''
+content: |-
+  Bocs, félrenéztem. Úgy rémlett, hogy "egész szóra" keresel (valami miatt egy -w is rémlett a grep-nél).<br />
+  Újra megnézve:<br />
+  apropos '^stat '<br />
+  És így ugyanazt kapod, amit grep-pel kapnál :)
+created_at: 2015-09-08 16:03:08.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '7750670'
+post_title: man
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2015/09/05/man_795?full_commentlist=1#c28036396" class="reply_nick_284397" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 28036396 );">@uzsolt</a>: Így már tényleg jónak tűnik.<br />
+  <br />
+  Az igazság az, hogy a grepet már ismerem, így egyszerűbb volt azt használni ahelyett, hogy utánanézzek, hogy az apropos pontosan mire is képes. Persze grep nélkül szebb.
+created_at: 2015-09-10 05:56:58.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '6733227'
+post_title: shellshock
+author_name: richard_szabo
+author_email: richard_szabo@indamail.hu
+author_url: ''
+content: |-
+  Szerencsére ubuntunál elég gyorsan dolgoznak, 12.04-en egy 'apt-get install bash' már meg is oldotta a problémát:<br />
+  <br />
+   env x='() { :;}; echo vulnerable'  bash -c "echo this is a test"<br />
+  bash: warning: x: ignoring function definition attempt<br />
+  bash: error importing function definition for `x'<br />
+  this is a test
+created_at: 2014-09-26 16:49:27.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '5220652'
+post_title: Véletlenszám
+author_name: richard_szabo
+author_email: richard_szabo@indamail.hu
+author_url: ''
+content: '[Itt](<a rel="nofollow" href="http://security.stackexchange.com/a/3939)">security.stackexchange.com/a/3939)</a>
+  Thomas azt mondja, hogy átlagos használathoz bőven elég az urandom, mely csupán
+  egy frissen installált linux első bootja után rövid ideig nem jut elég hardveres
+  entrópiához.'
+created_at: 2013-04-15 12:42:36.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '5124142'
+post_title: timeout
+author_name: Goosfrabaa
+author_email: gabrea@freemail.hu
+author_url: ''
+content: Csúcs, én sem hallottam eddig róla, pedig nem most kezdtem linuxozni.
+created_at: 2013-03-14 14:17:43.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '5120526'
+post_title: Linuxvilág
+author_name: bAndie91
+author_email: bandie9100@vipmail.hu
+author_url: ''
+content: ja-ja sok okosság van benne, legutóbb pl. a treeps és a lavaps programokról
+  olvastam, amik közül a treeps más discontinued projekt. és arról, hogy tudja egy
+  folyamat strace-elni a child-jeit.
+created_at: 2013-03-08 22:30:47.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '5120526'
+post_title: Linuxvilág
+author_name: Hóhér az utolsó barátod
+author_email: drhoher@indamail.hu
+author_url: http://internetszemete.blog.hu
+content: Ennyi volt. Nem tudom, mikor zárták be, ma már csak egy üres oldal van a
+  helyén. :(
+created_at: 2015-11-20 15:48:36.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '5120526'
+post_title: Linuxvilág
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2013/03/07/linuxvilag?full_commentlist=1#c28629372"
+  class="reply_nick_1036000" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 28629372 );">@Hóhér az utolsó barátod</a>:
+  A fenébe, le kellett volna menteni.'
+created_at: 2015-11-20 16:00:13.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '5120526'
+post_title: Linuxvilág
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2013/03/07/linuxvilag?full_commentlist=1#c28629372"
+  class="reply_nick_1036000" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 28629372 );">@Hóhér az utolsó barátod</a>:
+  Találtam egy másik helyet ahol fent vannak a cikkek, bővítettem a bejegyzést.'
+created_at: 2017-02-19 08:15:21.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: szokolova
+author_email: szokolov@yahoo.com
+author_url: ''
+content: |-
+  Szia, szívesen kipróbálnám a szkriptet, ha tudnál segíteni abban, hogy OSX alatt hogyan kell használni.<br />
+  Feltettem a calibre-t, de azt mondja a dia_convert.sh, hogy: ebook-convert: command not found. Átvittem a futtatási könyvtárba az ebook_convert-et, de akkor meg a calibre library-kat nem találja.<br />
+  Előre is köszi a segítséget!
+created_at: 2013-03-07 20:35:09.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2012/12/24/pim_dia_e-konyv?fullcommentlist=1#c19209252" class="reply_nick_785761" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 19209252 );">@szokolova</a>: Nem ismerem az OSX-et, de a calibre oldalán azt írják, hogy:<br />
+  <br />
+  "On OS X you have to go to Preferences-&gt;Advanced-&gt;Miscellaneous and click install command line tools to make the command line tools available. On other platforms, just start a terminal and type the command."<br />
+  <br />
+  <a rel="nofollow" href="http://manual.calibre-ebook.com/cli/cli-index.html">manual.calibre-ebook.com/cli/cli-index.html</a>
+created_at: 2013-03-08 18:35:18.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: szokolova
+author_email: szokolov@yahoo.com
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2012/12/24/pim_dia_e-konyv?fullcommentlist=1#c19216280"
+  class="reply_nick_13905" onclick="javascript:if ( typeof followCommentReply != ''undefined''
+  ) return followCommentReply( 19216280 );">@sala</a>: Köszi az infót, ennek én is
+  utánanézhettem volna... A hétvégén kipróbálom.'
+created_at: 2013-03-14 20:38:06.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: szokolova
+author_email: szokolov@yahoo.com
+author_url: ''
+content: |-
+  @sala: volt egy kis időm próbálgatni, de sajnos nem megy. A calibre command line menne, de az elején a sed elakad, mégpedig a következőnél:<br />
+  sed '/&lt;a name="DIAPage.*&gt;/{ N; s/&lt;a name="DIAPage.*&gt;[\n]// }'<br />
+  <br />
+  ezt írja ki:<br />
+  sed: 1: "/&lt;a name="DIAPage.*&gt;/{  ...": bad flag in substitute command: '}'<br />
+  <br />
+  Sajnos nem igazán ismerem a sed parancsot, így azt sem tudom, hogy itt minek kellene történnie. Az előző sor oké, hogy kiszedi az "oldaltörés"-es sort, de itt mintha nem kiszedni akarnád, hanem átírni.<br />
+  <br />
+  Lehet, hogy OSX alatt máshogy működik a sed?<br />
+  <br />
+  Bocs, hogy ezzel "zaklatlak", de a DIA-n rengeteg jó könyv van :)<br />
+  <br />
+  Előre is köszi a segítséget!
+created_at: 2013-03-14 21:27:03.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  Hát amikor azt írtam, hogy ez egy igen ronda script, akkor pont a sed értelmetlen használatára utaltam.<br />
+  <br />
+  Ez a részlet többsoros illesztést végez. Elképzelhető, hogy OSX alatt másként működik a sed. Megpróbálhatod kihagyni ezt a részt, legfeljebb marad pár felesleges sortörés a könyvben. Attól még olvasható lesz.
+created_at: 2013-03-23 06:36:36.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: richard_szabo
+author_email: richard_szabo@indamail.hu
+author_url: ''
+content: Nekem Ubuntu 16.04 alatt adott jópár warning-ot, de végül is rendben működött,
+  elkészült a mobi fájl.
+created_at: 2016-12-04 10:21:48.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: vasszer
+author_email: valeka@freemail.hu
+author_url: ''
+content: |-
+  Futtatom a fenti scriptet, de az oldalszámuktól törli az adott bekezdést. Valamit lehet, hogy átalakítottak a DIÁ-nál. Korábban nem volt ilyen gondom. Hogyan lenne érdemes a scriptet alakítani a feltételezhetően új helyzethez? Nagyon nem ismerem ezeket a szerkesztő programokat.<br />
+  Köszönöm szépen az esetleges segítséget!
+created_at: 2018-03-13 23:15:18.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: vasszer
+author_email: valeka@freemail.hu
+author_url: ''
+content: '&lt;a href="http://dia.jadox.pim.hu/jetspeed/displayXhtml?docId=0000000191&amp;secId=0000017372&amp;mainContent=true&amp;mode=html#WORD_1_1"&gt;Erről&lt;/a&gt;
+  van szó.'
+created_at: 2018-03-14 08:16:28.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: vasszer
+author_email: valeka@freemail.hu
+author_url: ''
+content: 'Erről van szó: &lt;a href="http://dia.jadox.pim.hu/jetspeed/displayXhtml?docId=0000000191&amp;secId=0000017372&amp;mainContent=true&amp;mode=html#WORD_1_1"&gt;Erről&lt;/a&gt;
+  van szó. Elnézést az előbbi hozzászólásomért.'
+created_at: 2018-03-14 08:17:12.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: vasszer
+author_email: valeka@freemail.hu
+author_url: ''
+content: |-
+  Nos picit dolgoztam az ügyön.<br />
+  Konkrétan az általam fent hivatkozott könyvet kíséreltem meg „oldalszám-mentesíteni”.<br />
+  Calibre programmal egész jól megoldható (3.19-es változat).<br />
+  <br />
+  Letöltöm a könyvet xhtml-ben (külön megnyitom a keretét).<br />
+  <br />
+  Calibrében konvertálom. (Most csak az oldalszámok ledarálását írom, a bekezdések közti térköz eltávolítására, beépített betűtípusokra, stb. nem térek ki, azoknál elég egy-egy pipa a megfelelő négyzetbe.) Nem tudom, hogy kell-e ehhez külön calibre kiegészítő/plugin. Úgy vélem nem.<br />
+  <br />
+  Jobb katt a letöltött könyvre/helyi menü/Konvertálás/Keresés  &amp; csere/Reguláris keresési kifejezés:<br />
+  <br />
+  ide írni:<br />
+  xhtml dia fájl esetén (amit *.zip-ként kezel a calibre): &lt;a name="DIAPage[0-9]+" shape="rect"&gt;&lt;/a&gt;&lt;span class="oldaltores"&gt;[0-9]+&lt;/span&gt;<br />
+  <br />
+  (a ’[0-9]+’ jelenti a bármilyen egész számot, vagy ilyesmi. Forrás: <a rel="nofollow" href="https://manual.calibre-ebook.com/regexp.html#id6)">manual.calibre-ebook.com/regexp.html#id6)</a><br />
+  <br />
+  Behelyettesítendő szöveg cellát üresen hagyom.<br />
+  <br />
+  Meg kell nyomni a hozzáadás gombot, és konvertálás.<br />
+  Számomra kielégítő az eredmény.
+created_at: 2018-03-14 10:25:42.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: vasszer
+author_email: valeka@freemail.hu
+author_url: ''
+content: 'A forrás hivatkozás helyesen ’)’-jel nélkül: manual.calibre-ebook.com/regexp.html#id6
+  .'
+created_at: 2018-03-14 10:27:03.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: vasszer
+author_email: valeka@freemail.hu
+author_url: ''
+content: |-
+  Kis egyéb: versesköteteket a diá-ról nehezen tudtam calibrével formázni. Elveszett eddig a verscímek formázásai, a térközök. Most így tudtam megbuherálni a dolgot:<br />
+  <br />
+  – letöltve xhtml-ben az adott keretrész.<br />
+  – konvertálásnak nekikezdés<br />
+  – a fent leírt módon az oldalszámok kiütésének beállítása, tesztelése<br />
+  <br />
+  ******************<br />
+  a lényeg:<br />
+  – a böngészőben a külön megnyitott keret oldalforrását megnézni (általában: jobb gomb, helyi menüből kiválaszt).<br />
+  – megkeresni, megnyitni a forrásban a ../presentation-base.css fájlt<br />
+  – a css tartalmát átmásolni a /konvertálás/kinézet és megjelenés/Stílusok/Extra CSS-ek ablakba. (elméletileg ide elegendő lenne a *.css fájl hivatkozását elhelyezni, de így nekem nem sikerált)<br />
+  – OK: mehet az átalakítás/konvertálás<br />
+  <br />
+  Azt is bizonyára meg lehet oldani, hogy a versek külön oldalra kerüljenek.<br />
+  A tartalomjegyzékért is vért izzadtam de nem sikerült. Akkor inkább olvasok… Ha valaki spíler calibréban, nagyvonalú lenne, ha segítene ez ügyekben. Előre is köszönet.<br />
+  <br />
+  Amivel csináltam: <a rel="nofollow" href="http://dia.jadox.pim.hu/jetspeed/displayXhtml?docId=0000000101&amp;secId=0000009849&amp;mainContent=true&amp;mode=html#WORD_1_1">dia.jadox.pim.hu/jetspeed/displayXhtml?docId=0000000101&amp;secId=0000009849&amp;mainContent=true&amp;mode=html#WORD_1_1</a><br />
+  Minden jót!
+created_at: 2018-03-14 11:56:10.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2012/12/24/pim_dia_e-konyv?full_commentlist=1#c34798934" class="reply_nick_564764" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 34798934 );">@vasszer</a>: A calibre egy igen hasznos eszköz, ha ekönyvekkel foalalkozik az ember.<br />
+   A fenti scriptem is használja (ebook-convert, ebook-meta). <br />
+  A grafikus felület konvertálója is hasznos lehet, de mivel ez egy parancssoros blog, ezért nem írtam róla.<br />
+  <br />
+  A scriptem nyilván szörnyű és elég reménytelennek tűnik karbantartani a változó dia formátumok miatt.<br />
+  <br />
+  Továbbra sem értem, hogy több mint 5 évvel az eredeti bejegyzésem után miért nem lehet még mindig letölteni valami elfogadható ekönyv formátumban a könyveket a dia-ról. Mintha direkt megnehezítenék a könyvek olvasását.
+created_at: 2018-03-19 08:14:45.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: dzsekitcsen
+author_email: dzsekitcsen@gmail.com
+author_url: ''
+content: Az új, reader.dia.hu kezdetű oldalakon lehet bármit is csinálni?
+created_at: 2019-02-07 15:32:17.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="https://commandline.blog.hu/2012/12/24/pim_dia_e-konyv?full_commentlist=1#c36698778" class="reply_nick_1090230" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 36698778 );">@dzsekitcsen</a>: Hát meglepne, ha a script rendesen működne az új oldal anyagaival.<br />
+  <br />
+  Úgy látom még kényelmetlenebbé tették az olvasást, mintha az lenne a céljuk, hogy ne olvassa senki a könyveket.
+created_at: 2019-02-07 17:23:40.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4976296'
+post_title: PIM DIA e-könyv
+author_name: "-TEd-"
+author_email: tsavargo@freemail.hu
+author_url: ''
+content: 'network forgalom figyelésével meg lehet találni a régi oldalhoz hasonlóan
+  egyben a fájlokat, kb ilyesmi lesz amit keresni kell: <a rel="nofollow" href="https://reader.dia.hu/rest/epub-reader/component/PIMDIA9475_%20Darvasi_Laszlo-A_konnymutatvanyosok_legendaja-00010.xhtml">reader.dia.hu/rest/epub-reader/component/PIMDIA9475_%20Darvasi_Laszlo-A_konnymutatvanyosok_legendaja-00010.xhtml</a>'
+created_at: 2019-02-15 10:23:32.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4876144'
+post_title: RipIt
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  "Igen, ez a bejegyzés kb. 10 évet késett."<br />
+  Akkor én nagyon lemaradtam!:-) Köszönöm a leírást!
+created_at: 2016-05-29 10:53:14.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4688523'
+post_title: x2x
+author_name: bagoj ur
+author_email: bagoj.ur@sixweb.hu
+author_url: ''
+content: Ez komoly, még nem is hallottam erről!
+created_at: 2012-08-17 18:33:58.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4674338'
+post_title: ssh jelszó nélkül
+author_name: bookmyface
+author_email: facebookk.feltores@gmail.com
+author_url: http://hackerkepzes.hu/blog/
+content: hm, hasznosnak tűnik, na majd jól kipróbálom
+created_at: 2012-08-20 16:24:13.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4602034'
+post_title: 'yes'
+author_name: Goosfrabaa
+author_email: gabrea@freemail.hu
+author_url: ''
+content: |-
+  Ehhez felesleges a yes parancs (pont azért, mert megszakításig küldi a szöveget).<br />
+  Ha már úgy is pipe-ot kell használni;erre bőven jó az echo.<br />
+  Pl: echo ""  | ./jdk-6u31-linux-i586.bin<br />
+  <br />
+  A yes inkább arra való (szerintem), hogy legyen egy processz, amin bátran lehet gyakorolni pl. a szingálok hatását (pl killall - stop yes)
+created_at: 2012-06-22 09:53:49.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4602034'
+post_title: 'yes'
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  Igen, egyetlen enternél valóban felesleges a yes, nem volt a legszerencsésebb a példa. Akkor hasznosabb, ha nem ismerjük előre mennyi kérdést fog feltenni a parancs.<br />
+  <br />
+  Próbáltam elkerülni, hogy ugyanazt a példát írtam le, amit mindig leírnak yes-ről:<br />
+  <br />
+  yes | rm -i *
+created_at: 2012-06-22 10:09:48.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4602034'
+post_title: 'yes'
+author_name: Goosfrabaa
+author_email: gabrea@freemail.hu
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2012/06/21/yes_708?fullcommentlist=1#c17049225"
+  class="reply_nick_13905" onclick="javascript:if ( typeof followCommentReply != ''undefined''
+  ) return followCommentReply( 17049225 );">@sala</a>: Amúgy ez az rm-es példa is
+  sántít, mert ott a problémát a rm-re beállított alias okozza -célszerű azt megszűntetni,
+  nem tüneti kezelést alkalmazni (szerintem)..'
+created_at: 2012-06-22 10:35:42.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4602034'
+post_title: 'yes'
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  Nem az rm-re beállított alias, hanem a nyilván teljesen feleslegesen használt -i kapcsoló. <br />
+  <br />
+  Szerintem sem jó példa ezért választottam egy másik példát. Nem túl jól.
+created_at: 2012-06-22 10:45:51.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4602034'
+post_title: 'yes'
+author_name: Goosfrabaa
+author_email: gabrea@freemail.hu
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2012/06/21/yes_708?fullcommentlist=1#c17049533"
+  class="reply_nick_13905" onclick="javascript:if ( typeof followCommentReply != ''undefined''
+  ) return followCommentReply( 17049533 );">@sala</a>: Jah, tényleg nem látok a szememtől,
+  itt nem alias volt (viszont én azt használok, ezért "beleláttam" :))'
+created_at: 2012-06-22 10:50:53.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4587524'
+post_title: alias
+author_name: Goosfrabaa
+author_email: gabrea@freemail.hu
+author_url: ''
+content: És ha nem akarod minden loginkor ezeket begépelni, az aliast írd bele a .bashrc
+  (vagy .bash_profile) fájlba..
+created_at: 2012-06-20 07:30:39.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4587524'
+post_title: alias
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: Jogos, én is beleírtam, csak valamiért a bejegyzésben elfelejtettem megemlíteni.
+  Kösz.
+created_at: 2012-06-20 12:49:14.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4576294'
+post_title: feh --info
+author_name: mimindannyian
+author_email: indapassas@gmail.com
+author_url: http://wmiki.blog.hu/
+content: geeqie a te barátod.
+created_at: 2012-06-11 18:37:41.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4576294'
+post_title: feh --info
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2012/06/11/feh_--info?fullcommentlist=1#c16967756"
+  class="reply_nick_277861" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 16967756 );">@mimindannyian</a>: Kösz
+  a tippet, megnéztem. Azt hiszem egyelőre maradok a feh-nél.'
+created_at: 2012-06-14 08:01:27.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4565530'
+post_title: Fájldátum módosítása exif alapján
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: Hálás köszönet ezért a tippért, oltári nagy segítséget nyújtottál! Köszönöm!!
+created_at: 2016-05-22 20:06:23.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4565530'
+post_title: Fájldátum módosítása exif alapján
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2012/06/05/cim-nelkul_6547?full_commentlist=1#c30348388"
+  class="reply_nick_444042" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 30348388 );">@otegi</a>: Örülök ha hasznos
+  volt. Igazából csak a szépérzékemet zavarta a rossz dátum, nem voltam benne biztos,
+  hogy más is használni fogja ezt.'
+created_at: 2016-05-23 09:37:36.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4565530'
+post_title: Fájldátum módosítása exif alapján
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  A posztban olvasható parancs után én még az alábbi paranccsal tettem jobban rendbe a sok- sok képet:<br />
+  <br />
+  JPG állományok áthelyezése a készí­tés dátumáról elnevezett könyvtárba<br />
+  exiftool '-Directory&lt;CreateDate' -d /cel_konyvtar/%Y/%Y%m/%Y%m%d -r /forras_konyvtar<br />
+  <br />
+  De lehet másolni is az mozgatás helyett:<br />
+  JPG állományok másolása a készí­tés dátumáról elnevezett könyvtárba<br />
+  exiftool -o . '-Directory&lt;CreateDate' -d /cel_konyvtar/%Y/%Y%m/%Y%m%d -r /forras_konyvtar
+created_at: 2017-02-09 15:13:26.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4565530'
+post_title: Fájldátum módosítása exif alapján
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: Elnézést, a fenti kommentben szereplő parancsokat természetesen egy sorba
+  kell írni!!!
+created_at: 2017-02-09 15:14:12.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '4565530'
+post_title: Fájldátum módosítása exif alapján
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2012/06/05/cim-nelkul_6547?full_commentlist=1#c32334572"
+  class="reply_nick_444042" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 32334572 );">@otegi</a>: Ilyent már többször
+  majdnem csináltam, de sosem gyűlt össze annyi ömlesztett kép, hogy megérje vele
+  foglalkoznom. Ha kell, akkor majd innen felhasználom. Kösz.'
+created_at: 2017-02-10 17:38:14.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3394267'
+post_title: HDD lecserélése SSD-re
+author_name: mimindannyian
+author_email: indapassas@gmail.com
+author_url: http://wmiki.blog.hu/
+content: Az első losetup-nál 256 byte-os szektorokkal számoltál, a másodiknál már
+  helyesen 512-vel.
+created_at: 2012-05-04 14:16:30.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3394267'
+post_title: HDD lecserélése SSD-re
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  Jogos. Javítottam. Kösz, hogy szóltál. <br />
+  <br />
+  Vélhetően csak a bejegyzésben rontottam el, a valóságban nem, különben nem működött volna.
+created_at: 2012-05-04 14:31:20.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3394267'
+post_title: HDD lecserélése SSD-re
+author_name: richard_szabo
+author_email: richard_szabo@indamail.hu
+author_url: ''
+content: Szép munka!
+created_at: 2012-11-14 20:28:39.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3151305'
+post_title: Előző parancs újrafuttatása kis módosítással
+author_name: bAndie91
+author_email: bandie9100@vipmail.hu
+author_url: ''
+content: |-
+  "Mondanom sem kell, óvatosan érdemes bánni a lehetőséggel, igen könnyen adhatunk ki hibás parancsot."<br />
+  <br />
+  ennek elkerülése végett beállíthatjuk a <br />
+  $ shopt -s histverify<br />
+  opciót, ami a futtatás elõtt felkínálja a parancs szerkesztését. A<br />
+  $ shopt -s histreedit<br />
+  opció pedig a sikertelen paracscseréket újra beírja a prompt-ba.
+created_at: 2011-11-17 22:49:43.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3015611'
+post_title: DTS konvertálása AC3-ra
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  Szia!<br />
+  <br />
+  Én mostanság az 5.1 csatornával bíbelődök. A filmek nagy részét full HD-ben töltöm le, de nincs házimozim. <br />
+  Sokat kutakodtam, és találtam egy megoldást, ami elvileg segít az 5.1-ből sztereót konvertálni úgy, hogy a videó tulajdonságai érintetlenek maradnak.<br />
+  Pár filmet már átkonvertáltam, az exiftool jelzi is:<br />
+  - konvertálás előtt: Audio Channels: 6<br />
+  - konvertálás után: Audio Channels: 2<br />
+  A parancs így néz ki:<br />
+  ffmpeg -i eredeti_film.mkv -vcodec copy -acodec \ libmp3lame -ab 320k -ar 48000 -async 48000 -ac 2 \ konvertalt_film.mkv<br />
+  Konvertált filmet még nem tudtam megnézni, idő hiányában, de nagyon kíváncsi vagyok az eredményre!<br />
+  <br />
+  Szia!
+created_at: 2017-12-17 18:38:10.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3015611'
+post_title: DTS konvertálása AC3-ra
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: A fenti parancsban a "\" jelek azt mutatták, hogy egy sorba kell írni az
+  egész parancsot, de a szövegdobozban rövidebbek voltak a sorok, mint a megjelenített
+  hozzászólásban.
+created_at: 2017-12-17 18:39:41.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3015611'
+post_title: DTS konvertálása AC3-ra
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2011/06/27/dts_konvertalasa_ac3_ra?full_commentlist=1#c34319649" class="reply_nick_444042" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 34319649 );">@otegi</a>: Szia! A bejegyzésemben a hardveres lejátszó arra az egyszem TV-re utalt, amin a filmeket nézem. Ez többször panaszkodott, hogy DTS-n nem tud/akar lejátszani, ezért készült ez a bejegyzés. Emlékeim szerint 5.1-re nem szokott panaszkodni.<br />
+  <br />
+  Ettől még érdekes kérdés, hogy vajon mikor jobb az eredmény: Ha a TV konvertálja az 5.1-et lejátszáskor, vagy ha előre konvertálod ffmpeg-gel. Ha tesztelted filmmel, akkor írd meg az eredményt. Tippem szerint ameddig a TV-kbe épített kis hangszóró szól, addig sajnos teljesen mindegy.
+created_at: 2017-12-18 06:54:32.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3015611'
+post_title: DTS konvertálása AC3-ra
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2011/06/27/dts_konvertalasa_ac3_ra?full_commentlist=1#c34321349" class="reply_nick_13905" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 34321349 );">@sala</a>: Szia!<br />
+  <br />
+  Én azért variálok a hanggal, mert zavar filmnézés közben, hogy vannak olyan részek, ahol csak sutyorog a TV, meg vannak olyan részek, ahol üvölt. Folyton variálok a távirányítóval. Neked ez nem probléma? Vagy Nálad "rendesen" szól? Vagy lehet, hogy be kellene valamit állítanom a TV-n? Most szöget ütötték a fejembe!
+created_at: 2017-12-18 20:26:10.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '3015611'
+post_title: DTS konvertálása AC3-ra
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2011/06/27/dts_konvertalasa_ac3_ra?full_commentlist=1#c34324943" class="reply_nick_444042" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 34324943 );">@otegi</a>: Szia! Hogy őszinte legyek kicsit zavar, de annyira azért nem, hogy csak ezért újrakonvertáljak egy filmet. Valószínűleg a TV beállításait is végignéztem hajdanában emiatt, de már nem emlékszem pontosan.<br />
+  <br />
+  A parancssori példádban nem látok semmi utalást arra, hogy normalizálnád a hangot. Lehet persze, hogy önmagában az 5.1 -ről sztereóra váltás is csökkenti a dinamikát, de szerintem külön utasításra is szükséged lesz: <a rel="nofollow" href="https://superuser.com/q/323119/8240">superuser.com/q/323119/8240</a>
+created_at: 2017-12-19 07:26:27.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2713534'
+post_title: merevlemez törlése
+author_name: Dobika
+author_email: gabigyuri@vipmail.hu
+author_url: ''
+content: Azt mondja már meg valaki hogy hogyan lehet a merevlemezen tárolt adatokat
+  letörölni?
+created_at: 2013-07-20 18:14:28.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2713534'
+post_title: merevlemez törlése
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2011/03/06/merevlemez_torlese?fullcommentlist=1#c20252173"
+  class="reply_nick_597068" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 20252173 );">@Dobika</a>: Pont erről
+  szól ez a bejegyzés.'
+created_at: 2013-07-21 06:39:08.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2713534'
+post_title: merevlemez törlése
+author_name: Dobika
+author_email: gabigyuri@vipmail.hu
+author_url: ''
+content: Ezek szerint én sík hülye vagyok ehez.Képtelen vagyok rájönni hogy megy ez.
+  Csak annyit látok hogy a merevlemezem kritikus állapotban tele van.Ezért szeretném
+  a felesleges dolgokat letörőlni.De majd csak rájövök egyszer.
+created_at: 2013-07-21 10:55:57.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2713534'
+post_title: merevlemez törlése
+author_name: Dobika
+author_email: gabigyuri@vipmail.hu
+author_url: ''
+content: De mit kel csinálni a bejegyzéssel?
+created_at: 2013-07-21 10:57:01.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2445976'
+post_title: xargs -P
+author_name: nikopol
+author_email: tom.hornos@gmail.com
+author_url: http://nikopol.blog.hu
+content: jó ez az xargs
+created_at: 2011-01-12 16:16:18.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2501899'
+post_title: szöveg képpé alakítása
+author_name: barton
+author_email: barci3@freestart.hu
+author_url: ''
+content: |-
+  „a magyar ékezetes betűket is rendesen kezeli”<br />
+  Hát, kezeli, de azért túlzás, hogy rendesen. Az ű szemet szúrt, bántóan eltérő betűtípusból származik… :\<br />
+  <br />
+  Amúgy az ImageMagicket nagyon bírom, jó kis eszköz. :)
+created_at: 2010-12-13 20:15:19.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2501899'
+post_title: szöveg képpé alakítása
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2010/12/09/szoveg_keppe_alakitasa?fullcommentlist=1#c11881405"
+  class="reply_nick_547131" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 11881405 );">@barton</a>: Jobban megnézve
+  tényleg kicsit furcsa. Igazából én már annak is örültem, hogy ű betű jelent meg
+  ( egy másik programot próbáltam korábban, ott ez nem sikerült ).'
+created_at: 2010-12-14 15:38:03.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2445881'
+post_title: find
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  Ha szabad egy új tippet adni:<br />
+  két dátum közötti állományokat így lehet keresni:<br />
+  touch --date "2014-01-01" /tmp/start<br />
+  touch --date "2014-12-31" /tmp/end<br />
+  find /xx/yy -type f -newer /tmp/start -not -newer /tmp/end
+created_at: 2016-05-24 20:34:31.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2445881'
+post_title: find
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2010/11/14/find_2?full_commentlist=1#c30363386"
+  class="reply_nick_444042" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 30363386 );">@otegi</a>: Köszi, bővítettem
+  ezzel a bejegyzést.'
+created_at: 2016-05-26 11:03:11.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2445881'
+post_title: find
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  Szia!<br />
+  <br />
+  A korábbi hozzászólásomat szeretném egy kicsit egyszerűsíteni. Két dátum közötti keresés az alábbi módon is működik:<br />
+  find /xx/yy -type f -newermt "20160101" -not -newermt "20161231"<br />
+  Ez egyszerűbb a korábbi módszernél.<br />
+  <br />
+  Szia!
+created_at: 2016-09-08 19:17:02.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2445881'
+post_title: find
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2010/11/14/find_2?full_commentlist=1#c31164791" class="reply_nick_444042" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 31164791 );">@otegi</a>: Szia!<br />
+  <br />
+  Kösz, ez lényegesen egyszerűbb. Átírtam erre.
+created_at: 2016-09-13 11:56:42.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2041691'
+post_title: dlna szerver
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  Szia!<br />
+  <br />
+  Jó, hogy foglalkozol ezzel a témával, épp segítségre szorulok.<br />
+  Feltelepítettem a minidlna-t, konfig rendben, TV, laptop, tablet, telefon látja a DLNA szervert. Tök jó. De pár óra múlva (kb. 3-5 óra) már nem látja semmi a szervert, csak akkor, ha futtatok egy force-reload-ot. Ez sem lenne nagy baj, cronból futtatnám akár percenként is, de ha éppen filmet nézek és lefut a /etc/init.d/minidlna force-reload, akkor megszakad a film. Mit lehet ezzel kezdeni? feltúrtam a netet, de semmilyen megoldást nem találtam.
+created_at: 2017-02-07 12:32:43.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '2041691'
+post_title: dlna szerver
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  <a href="http://commandline.blog.hu/2010/05/31/dlna_szerver?full_commentlist=1#c32318504" class="reply_nick_444042" onclick="javascript:if ( typeof followCommentReply != 'undefined' ) return followCommentReply( 32318504 );">@otegi</a>: Szia! Elég régóta nem használom már mindlna-t, vettem egy NAS-t, azóta nem kell.<br />
+  <br />
+  Amikor használtam még, akkor a laptopomon futott ami ugye nem is volt mindig bekapcsolva. Szóval igazából ha nem ment, akkor filmnézés előtt belerúgtam egyet minidlna-ba.
+created_at: 2017-02-08 07:18:05.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '1926893'
+post_title: bash soreditálás
+author_name: slink (törölt)
+author_email: gabor@20y.hu
+author_url: http://20y.hu
+content: A felsoroltak valójában nem emacsos, inkább GNU billentyűkombinációk, amelyek
+  minden GNU alkalmazásban használhatók, így GNU bashban és GNU Emacsban is.
+created_at: 2010-04-23 11:17:13.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '1926893'
+post_title: bash soreditálás
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: A legtöbben (hozzám hasonlóan) valószínűleg emacs-ból ismerik ezeket a billentyűkombinációkat.
+  Igazad van, nemcsak itt használhatóak, hanem minden programban ami GNU Readline-ra
+  épül.
+created_at: 2010-05-01 13:47:46.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '1842303'
+post_title: Több matroska összefűzése
+author_name: junpet
+author_email: junpet@vipmail.hu
+author_url: ''
+content: Egy mar meglevo mkv-hoz szeretnek hozzafuzni egy chapter fajlt (xml). Ezt
+  hogy tehetem meg?
+created_at: 2012-11-19 11:08:23.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '1842303'
+post_title: Több matroska összefűzése
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  Erre gondolsz? <a rel="nofollow" href="http://commandline.blog.hu/2012/11/30/mkv_fejezetek">commandline.blog.hu/2012/11/30/mkv_fejezetek</a><br />
+  <br />
+  XML helyett egyszerűbb chapter fájlt használtam, de gondolom XML-lel is hasonlóan megy.
+created_at: 2012-11-30 09:09:46.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '1673896'
+post_title: Sorok számozása
+author_name: otegi
+author_email: szalayricsi@gmail.com
+author_url: ''
+content: |-
+  Szia! Örülök, hogy megtaláltam a blogodat!<br />
+  Arra lennék kíváncsi, hogy egy adott állomány sorait hogyan tudom egy shell script segítségével kiíratni?<br />
+  Pl.: szeretnék egy archívumot (valami.tar.gz) készíteni, és jó lenne, ha a képernyőn mutatná, hogy éppen melyik fájl feldolgozásánál tart.<br />
+  Úgy indultam neki, hogy kilistáztam a könyvtár tartalmát, amit egy példa.txt fájlba tettem. De arra nem tudok rájönni, hogy a fájlból a cat paranccsal visszavett sorokat hogyan tudom megjeleníteni a képernyőn. Gondolom, hogy echo parancs kell hozzá, de aztán itt elakadok.
+created_at: 2012-04-20 08:06:41.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '1673896'
+post_title: Sorok számozása
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: |-
+  Szia!<br />
+  <br />
+  Nem teljesen értem. Ha .tar.gz-t készítek, akkor látom melyik fájlnál tart a gyártás, mindenféle trükk nélkül.<br />
+  <br />
+  Idemásolnád a scripted?
+created_at: 2012-04-21 20:18:32.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '1634681'
+post_title: bash ctrl-r
+author_name: gricso
+author_email: gricso@hotmail.com
+author_url: ''
+content: Köszi! Nagyon hasznos a bejegyzés! Csak így tovább! Ha kell segítség, szólj
+  nyugodtan. Nagyon jó az ötlet csak hosszabb és több bejegyzést olvasnék!
+created_at: 2010-04-04 22:09:03.000000000 +00:00
+
+--- !ruby/object:Comment
+post_id: '1634681'
+post_title: bash ctrl-r
+author_name: sala
+author_email: andras.salamon@melda.info
+author_url: ''
+content: '<a href="http://commandline.blog.hu/2010/01/28/bash_ctrl_r?fullcommentlist=1#c9328914"
+  class="reply_nick_430262" onclick="javascript:if ( typeof followCommentReply !=
+  ''undefined'' ) return followCommentReply( 9328914 );">@gricso</a>: Kösz. Ennél
+  azért lesznek hosszabb bejegyzések, de túl hosszú elemzések nem várhatóak. Ha van
+  konkrét ötleted, írjál magánüzenetet.'
+created_at: 2010-04-07 06:11:42.000000000 +00:00
+
