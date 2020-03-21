@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ideiglenes alkönyvtárba ugrás'
-permalink: https://commandline.blog.hu/2011/03/26/ideiglenes_alkonyvtarba_ugras
+permalink: /2011/03/26/ideiglenes_alkonyvtarba_ugras
 post_id: 2771034
 categories: 
 - cd

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Process helyettesítés'
-permalink: https://commandline.blog.hu/2010/03/17/process_helyettesites
+permalink: /2010/03/17/process_helyettesites
 post_id: 1796998
 categories: 
 - helyettesítés

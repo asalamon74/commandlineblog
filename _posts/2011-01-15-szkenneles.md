@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'szkennelés'
-permalink: https://commandline.blog.hu/2011/01/15/szkenneles
+permalink: /2011/01/15/szkenneles
 post_id: 2550224
 categories: 
 - szkennelés

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'exif információ törlése'
-permalink: https://commandline.blog.hu/2010/06/19/exif_informacio_torlese
+permalink: /2010/06/19/exif_informacio_torlese
 post_id: 2093130
 categories: 
 - exif

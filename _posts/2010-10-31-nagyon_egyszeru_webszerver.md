@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nagyon egyszerű webszerver'
-permalink: https://commandline.blog.hu/2010/10/31/nagyon_egyszeru_webszerver
+permalink: /2010/10/31/nagyon_egyszeru_webszerver
 post_id: 2411173
 categories: 
 - python

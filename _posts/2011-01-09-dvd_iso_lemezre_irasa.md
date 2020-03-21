@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DVD iso lemezre írása'
-permalink: https://commandline.blog.hu/2011/01/09/dvd_iso_lemezre_irasa
+permalink: /2011/01/09/dvd_iso_lemezre_irasa
 post_id: 2546157
 categories: 
 - dvd

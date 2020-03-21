@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'x264 többszálúság'
-permalink: https://commandline.blog.hu/2010/02/21/x264_tobbszalusag
+permalink: /2010/02/21/x264_tobbszalusag
 post_id: 1701560
 categories: 
 - ffmpeg

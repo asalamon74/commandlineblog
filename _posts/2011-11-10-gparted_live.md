@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'gparted live'
-permalink: https://commandline.blog.hu/2011/11/10/gparted_live
+permalink: /2011/11/10/gparted_live
 post_id: 3366085
 categories: 
 - merevlemez

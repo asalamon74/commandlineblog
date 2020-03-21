@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dlna szerver'
-permalink: https://commandline.blog.hu/2010/05/31/dlna_szerver
+permalink: /2010/05/31/dlna_szerver
 post_id: 2041691
 categories: 
 - szerver

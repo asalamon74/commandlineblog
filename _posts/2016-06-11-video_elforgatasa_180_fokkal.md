@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Videó elforgatása 180 fokkal'
-permalink: https://commandline.blog.hu/2016/06/11/video_elforgatasa_180_fokkal
+permalink: /2016/06/11/video_elforgatasa_180_fokkal
 post_id: 8797322
 categories: 
 - video

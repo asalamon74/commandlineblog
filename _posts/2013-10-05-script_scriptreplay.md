@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'script + scriptreplay'
-permalink: https://commandline.blog.hu/2013/10/05/script_scriptreplay
+permalink: /2013/10/05/script_scriptreplay
 post_id: 5551628
 categories:  []
 ---

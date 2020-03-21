@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'merevlemez törlése'
-permalink: https://commandline.blog.hu/2011/03/06/merevlemez_torlese
+permalink: /2011/03/06/merevlemez_torlese
 post_id: 2713534
 categories: 
 - merevlemez

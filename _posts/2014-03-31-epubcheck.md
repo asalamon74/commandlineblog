@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'epubcheck'
-permalink: https://commandline.blog.hu/2014/03/31/epubcheck
+permalink: /2014/03/31/epubcheck
 post_id: 5884236
 categories: 
 - epub

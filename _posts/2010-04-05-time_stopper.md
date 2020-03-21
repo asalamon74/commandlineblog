@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'time stopper'
-permalink: https://commandline.blog.hu/2010/04/05/time_stopper
+permalink: /2010/04/05/time_stopper
 post_id: 1862836
 categories: 
 - time

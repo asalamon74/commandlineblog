@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'patch készítése'
-permalink: https://commandline.blog.hu/2012/02/27/patch_keszitese
+permalink: /2012/02/27/patch_keszitese
 post_id: 4208434
 categories: 
 - patch

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bartók - Laufer: UNIX felhasználói ismeretek'
-permalink: https://commandline.blog.hu/2015/11/17/bartok_laufer_unix_felhasznaloi_ismeretek
+permalink: /2015/11/17/bartok_laufer_unix_felhasznaloi_ismeretek
 post_id: 8077248
 categories: 
 - unix

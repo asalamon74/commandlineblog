@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'szöveg képpé alakítása'
-permalink: https://commandline.blog.hu/2010/12/09/szoveg_keppe_alakitasa
+permalink: /2010/12/09/szoveg_keppe_alakitasa
 post_id: 2501899
 categories: 
 - text

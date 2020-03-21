@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quoted Printable'
-permalink: https://commandline.blog.hu/2017/05/30/quoted_printable
+permalink: /2017/05/30/quoted_printable
 post_id: 12547851
 categories: 
 - perl

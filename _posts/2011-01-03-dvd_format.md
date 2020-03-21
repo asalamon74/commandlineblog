@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dvd format'
-permalink: https://commandline.blog.hu/2011/01/03/dvd_format
+permalink: /2011/01/03/dvd_format
 post_id: 2545710
 categories: 
 - dvd

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ffmpeg osztott képernyő'
-permalink: https://commandline.blog.hu/2017/01/04/ffmpeg_osztott_kepernyo
+permalink: /2017/01/04/ffmpeg_osztott_kepernyo
 post_id: 12085429
 categories: 
 - ffmpeg

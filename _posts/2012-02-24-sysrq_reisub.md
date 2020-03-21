@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SysRq REISUB'
-permalink: https://commandline.blog.hu/2012/02/24/sysrq_reisub
+permalink: /2012/02/24/sysrq_reisub
 post_id: 4130669
 categories: 
 - boot

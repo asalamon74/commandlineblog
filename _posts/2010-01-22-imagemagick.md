@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'imagemagick'
-permalink: https://commandline.blog.hu/2010/01/22/imagemagick
+permalink: /2010/01/22/imagemagick
 post_id: 1636589
 categories: 
 - convert

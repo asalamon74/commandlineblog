@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'exiftool if'
-permalink: https://commandline.blog.hu/2017/04/04/exiftool_if
+permalink: /2017/04/04/exiftool_if
 post_id: 12397147
 categories: 
 - if

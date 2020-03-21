@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DNG tömörítés'
-permalink: https://commandline.blog.hu/2015/11/29/dng_tomorites
+permalink: /2015/11/29/dng_tomorites
 post_id: 8121962
 categories: 
 - pentax

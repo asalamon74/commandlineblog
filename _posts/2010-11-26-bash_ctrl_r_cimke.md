@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash ctrl-r címke'
-permalink: https://commandline.blog.hu/2010/11/26/bash_ctrl_r_cimke
+permalink: /2010/11/26/bash_ctrl_r_cimke
 post_id: 2470927
 categories: 
 - címke

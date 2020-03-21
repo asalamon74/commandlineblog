@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pkTriggerCord'
-permalink: https://commandline.blog.hu/2011/01/18/pktriggercord
+permalink: /2011/01/18/pktriggercord
 post_id: 2591307
 categories: 
 - pentax

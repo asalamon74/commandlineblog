@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'avi konvertálás matroskába feliratokkal'
-permalink: https://commandline.blog.hu/2010/03/29/avi_konvertalas_matroskaba_feliratokkal
+permalink: /2010/03/29/avi_konvertalas_matroskaba_feliratokkal
 post_id: 1841706
 categories: 
 - felirat

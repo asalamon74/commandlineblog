@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Külső monitor felismerése X újraindítás nélkül'
-permalink: https://commandline.blog.hu/2011/05/03/kulso_monitor_felismerese_x_ujrainditas_nelkul
+permalink: /2011/05/03/kulso_monitor_felismerese_x_ujrainditas_nelkul
 post_id: 2869032
 categories:  []
 ---

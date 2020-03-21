@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'vim-adventures.com'
-permalink: https://commandline.blog.hu/2012/04/29/vim-adventures_com
+permalink: /2012/04/29/vim-adventures_com
 post_id: 4477582
 categories: 
 - vim

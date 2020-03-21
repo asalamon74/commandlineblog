@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Előző parancs újrafuttatása kis módosítással'
-permalink: https://commandline.blog.hu/2011/08/17/elozo_parancs_ujrafuttatasa_kis_modositassal
+permalink: /2011/08/17/elozo_parancs_ujrafuttatasa_kis_modositassal
 post_id: 3151305
 categories: 
 - bash

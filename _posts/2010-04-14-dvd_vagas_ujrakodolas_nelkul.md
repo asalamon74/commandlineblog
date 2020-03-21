@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dvd vágás újrakódolás nélkül'
-permalink: https://commandline.blog.hu/2010/04/14/dvd_vagas_ujrakodolas_nelkul
+permalink: /2010/04/14/dvd_vagas_ujrakodolas_nelkul
 post_id: 1902205
 categories: 
 - dvd

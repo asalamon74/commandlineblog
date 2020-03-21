@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'identify - Információk képekről'
-permalink: https://commandline.blog.hu/2010/05/23/identify_informaciok_kepekrol
+permalink: /2010/05/23/identify_informaciok_kepekrol
 post_id: 2004486
 categories: 
 - imagemagick

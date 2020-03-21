@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash zárójeles kiegészítés'
-permalink: https://commandline.blog.hu/2010/04/20/bash_zarojeles_kiegeszites
+permalink: /2010/04/20/bash_zarojeles_kiegeszites
 post_id: 1909050
 categories: 
 - kiegészítés

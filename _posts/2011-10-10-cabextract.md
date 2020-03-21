@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'cabextract'
-permalink: https://commandline.blog.hu/2011/10/10/cabextract
+permalink: /2011/10/10/cabextract
 post_id: 3289781
 categories: 
 - tömörítés

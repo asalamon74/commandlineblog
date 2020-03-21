@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash for ciklus'
-permalink: https://commandline.blog.hu/2010/05/17/bash_for_ciklus
+permalink: /2010/05/17/bash_for_ciklus
 post_id: 2003859
 categories: 
 - for

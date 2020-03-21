@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAC address klónozása'
-permalink: https://commandline.blog.hu/2010/11/06/mac_address_klonozasa
+permalink: /2010/11/06/mac_address_klonozasa
 post_id: 2425749
 categories: 
 - mac_address

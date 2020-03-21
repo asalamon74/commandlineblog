@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'badblocks'
-permalink: https://commandline.blog.hu/2011/03/09/badblocks
+permalink: /2011/03/09/badblocks
 post_id: 2717506
 categories: 
 - merevlemez

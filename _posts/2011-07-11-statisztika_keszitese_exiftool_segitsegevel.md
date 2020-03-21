@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Statisztika készítése exiftool segítségével'
-permalink: https://commandline.blog.hu/2011/07/11/statisztika_keszitese_exiftool_segitsegevel
+permalink: /2011/07/11/statisztika_keszitese_exiftool_segitsegevel
 post_id: 3054174
 categories: 
 - exif

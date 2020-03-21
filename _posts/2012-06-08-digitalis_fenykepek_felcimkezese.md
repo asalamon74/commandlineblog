@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Digitális fényképek felcímkézése'
-permalink: https://commandline.blog.hu/2012/06/08/digitalis_fenykepek_felcimkezese
+permalink: /2012/06/08/digitalis_fenykepek_felcimkezese
 post_id: 4571901
 categories: 
 - exif

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'imagemagick lánc'
-permalink: https://commandline.blog.hu/2016/03/24/imagemagick_lanc
+permalink: /2016/03/24/imagemagick_lanc
 post_id: 8522324
 categories: 
 - imagemagick

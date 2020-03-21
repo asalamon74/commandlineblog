@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'mms rögzítése'
-permalink: https://commandline.blog.hu/2011/03/03/mms_rogzitese
+permalink: /2011/03/03/mms_rogzitese
 post_id: 2704503
 categories: 
 - mms

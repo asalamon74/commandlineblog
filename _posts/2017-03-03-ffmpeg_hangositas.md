@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ffmpeg hangosítás'
-permalink: https://commandline.blog.hu/2017/03/03/ffmpeg_hangositas
+permalink: /2017/03/03/ffmpeg_hangositas
 post_id: 12309081
 categories: 
 - audio

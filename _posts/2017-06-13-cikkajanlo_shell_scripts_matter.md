@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'cikkajánló: Shell Scripts Matter'
-permalink: https://commandline.blog.hu/2017/06/13/cikkajanlo_shell_scripts_matter
+permalink: /2017/06/13/cikkajanlo_shell_scripts_matter
 post_id: 12583429
 categories: 
 - cikkajánló

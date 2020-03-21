@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'virtualbox hdd méretnövelés'
-permalink: https://commandline.blog.hu/2016/04/15/virtualbox_hdd_meretnoveles
+permalink: /2016/04/15/virtualbox_hdd_meretnoveles
 post_id: 8606516
 categories: 
 - hdd

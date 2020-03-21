@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pipe viewer'
-permalink: https://commandline.blog.hu/2010/02/18/pipe_viewer
+permalink: /2010/02/18/pipe_viewer
 post_id: 1697490
 categories: 
 - pipe

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'wake on lan'
-permalink: https://commandline.blog.hu/2013/03/28/wake_on_lan
+permalink: /2013/03/28/wake_on_lan
 post_id: 5176418
 categories: 
 - wol

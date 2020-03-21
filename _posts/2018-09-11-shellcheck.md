@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'shellcheck'
-permalink: https://commandline.blog.hu/2018/09/11/shellcheck
+permalink: /2018/09/11/shellcheck
 post_id: 14229069
 categories:  []
 ---

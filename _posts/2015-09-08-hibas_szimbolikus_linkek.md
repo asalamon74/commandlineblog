@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hibás szimbolikus linkek'
-permalink: https://commandline.blog.hu/2015/09/08/hibas_szimbolikus_linkek
+permalink: /2015/09/08/hibas_szimbolikus_linkek
 post_id: 7757652
 categories: 
 - szimbolikus_link

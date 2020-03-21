@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'xargs szóköz'
-permalink: https://commandline.blog.hu/2011/01/21/xargs_szokoz
+permalink: /2011/01/21/xargs_szokoz
 post_id: 2549086
 categories: 
 - find

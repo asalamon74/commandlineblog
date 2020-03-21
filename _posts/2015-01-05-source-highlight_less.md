@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'source-highlight + less'
-permalink: https://commandline.blog.hu/2015/01/05/source-highlight_less
+permalink: /2015/01/05/source-highlight_less
 post_id: 7027831
 categories: 
 - less

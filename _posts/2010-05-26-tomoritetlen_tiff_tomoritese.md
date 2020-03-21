@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tömörítetlen tiff tömörítése'
-permalink: https://commandline.blog.hu/2010/05/26/tomoritetlen_tiff_tomoritese
+permalink: /2010/05/26/tomoritetlen_tiff_tomoritese
 post_id: 2004628
 categories: 
 - convert

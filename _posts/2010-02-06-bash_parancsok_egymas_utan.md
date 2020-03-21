@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash parancsok egymás után'
-permalink: https://commandline.blog.hu/2010/02/06/bash_parancsok_egymas_utan
+permalink: /2010/02/06/bash_parancsok_egymas_utan
 post_id: 1686870
 categories: 
 - bash

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pdf készítése képekből - A4'
-permalink: https://commandline.blog.hu/2015/12/14/pdf_keszitese_kepekbol_a4
+permalink: /2015/12/14/pdf_keszitese_kepekbol_a4
 post_id: 8169236
 categories: 
 - pdf

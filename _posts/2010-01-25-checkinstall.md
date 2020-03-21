@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'checkinstall'
-permalink: https://commandline.blog.hu/2010/01/25/checkinstall
+permalink: /2010/01/25/checkinstall
 post_id: 1638759
 categories: 
 - checkinstall

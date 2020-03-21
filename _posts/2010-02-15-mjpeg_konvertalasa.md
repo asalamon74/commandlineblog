@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MJPEG konvertálása'
-permalink: https://commandline.blog.hu/2010/02/15/mjpeg_konvertalasa
+permalink: /2010/02/15/mjpeg_konvertalasa
 post_id: 1692476
 categories: 
 - avi

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tar autocompress'
-permalink: https://commandline.blog.hu/2010/04/11/tar_autocompress
+permalink: /2010/04/11/tar_autocompress
 post_id: 1894687
 categories: 
 - tar

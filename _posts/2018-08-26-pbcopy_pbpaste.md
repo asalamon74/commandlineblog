@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pbcopy pbpaste'
-permalink: https://commandline.blog.hu/2018/08/26/pbcopy_pbpaste
+permalink: /2018/08/26/pbcopy_pbpaste
 post_id: 14201313
 categories: 
 - mac

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Norton Guide'
-permalink: https://commandline.blog.hu/2012/12/07/norton_guide
+permalink: /2012/12/07/norton_guide
 post_id: 4952483
 categories: 
 - nosztalgia

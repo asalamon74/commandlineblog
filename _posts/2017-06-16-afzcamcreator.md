@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'afzcamCreator'
-permalink: https://commandline.blog.hu/2017/06/16/afzcamcreator
+permalink: /2017/06/16/afzcamcreator
 post_id: 12584107
 categories: 
 - camera

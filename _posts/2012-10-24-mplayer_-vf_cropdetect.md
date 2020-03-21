@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'mplayer -vf cropdetect'
-permalink: https://commandline.blog.hu/2012/10/24/mplayer_-vf_cropdetect
+permalink: /2012/10/24/mplayer_-vf_cropdetect
 post_id: 4864779
 categories: 
 - mplayer

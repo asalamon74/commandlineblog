@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bash parancssori kiegészítés'
-permalink: https://commandline.blog.hu/2012/01/20/bash_parancssori_kiegeszites
+permalink: /2012/01/20/bash_parancssori_kiegeszites
 post_id: 3592343
 categories: 
 - bash

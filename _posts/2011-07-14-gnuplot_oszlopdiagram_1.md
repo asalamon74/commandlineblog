@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'gnuplot oszlopdiagram'
-permalink: https://commandline.blog.hu/2011/07/14/gnuplot_oszlopdiagram_1
+permalink: /2011/07/14/gnuplot_oszlopdiagram_1
 post_id: 3054203
 categories: 
 - gnuplot

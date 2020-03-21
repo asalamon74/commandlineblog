@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'alias kikerülése'
-permalink: https://commandline.blog.hu/2012/10/06/alias_kikerulese
+permalink: /2012/10/06/alias_kikerulese
 post_id: 4822822
 categories: 
 - alias

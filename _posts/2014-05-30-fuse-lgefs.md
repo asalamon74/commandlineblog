@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'fuse-lgefs'
-permalink: https://commandline.blog.hu/2014/05/30/fuse-lgefs
+permalink: /2014/05/30/fuse-lgefs
 post_id: 6234361
 categories: 
 - lg

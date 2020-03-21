@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ifconfig.me'
-permalink: https://commandline.blog.hu/2010/12/28/ifconfig_me
+permalink: /2010/12/28/ifconfig_me
 post_id: 2543375
 categories: 
 - curl

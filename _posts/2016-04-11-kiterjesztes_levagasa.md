@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kiterjesztés levágása'
-permalink: https://commandline.blog.hu/2016/04/11/kiterjesztes_levagasa
+permalink: /2016/04/11/kiterjesztes_levagasa
 post_id: 8575892
 categories: 
 - bash

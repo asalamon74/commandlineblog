@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'rpm készítése .src.rpm-ből.'
-permalink: https://commandline.blog.hu/2011/07/08/rpm_keszitese_src_rpm_bol
+permalink: /2011/07/08/rpm_keszitese_src_rpm_bol
 post_id: 3044068
 categories: 
 - rpm

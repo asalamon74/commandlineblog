@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PIM DIA e-könyv'
-permalink: https://commandline.blog.hu/2012/12/24/pim_dia_e-konyv
+permalink: /2012/12/24/pim_dia_e-konyv
 post_id: 4976296
 categories: 
 - ebook

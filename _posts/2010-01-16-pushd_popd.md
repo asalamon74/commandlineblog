@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pushd popd'
-permalink: https://commandline.blog.hu/2010/01/16/pushd_popd
+permalink: /2010/01/16/pushd_popd
 post_id: 1635328
 categories: 
 - cd

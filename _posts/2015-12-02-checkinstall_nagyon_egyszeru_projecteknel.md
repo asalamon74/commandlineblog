@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'checkinstall nagyon egyszerű projecteknél'
-permalink: https://commandline.blog.hu/2015/12/02/checkinstall_nagyon_egyszeru_projecteknel
+permalink: /2015/12/02/checkinstall_nagyon_egyszeru_projecteknel
 post_id: 8121872
 categories: 
 - checkinstall

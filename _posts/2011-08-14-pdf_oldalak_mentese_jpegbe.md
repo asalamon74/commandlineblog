@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pdf oldalak mentése jpegbe'
-permalink: https://commandline.blog.hu/2011/08/14/pdf_oldalak_mentese_jpegbe
+permalink: /2011/08/14/pdf_oldalak_mentese_jpegbe
 post_id: 3150635
 categories: 
 - pdf

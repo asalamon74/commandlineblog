@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ssconvert'
-permalink: https://commandline.blog.hu/2012/10/09/ssconvert
+permalink: /2012/10/09/ssconvert
 post_id: 4822836
 categories: 
 - gnumeric

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pdf jelszó feltörése'
-permalink: https://commandline.blog.hu/2015/11/23/pdf_jelszo_feltorese
+permalink: /2015/11/23/pdf_jelszo_feltorese
 post_id: 8097800
 categories: 
 - jelszó

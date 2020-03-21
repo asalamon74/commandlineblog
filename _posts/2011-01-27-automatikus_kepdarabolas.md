@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automatikus képdarabolás'
-permalink: https://commandline.blog.hu/2011/01/27/automatikus_kepdarabolas
+permalink: /2011/01/27/automatikus_kepdarabolas
 post_id: 2551958
 categories: 
 - imagemagick

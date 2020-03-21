@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pdf jelszóvédelem'
-permalink: https://commandline.blog.hu/2015/11/20/pdf_jelszovedelem
+permalink: /2015/11/20/pdf_jelszovedelem
 post_id: 8079504
 categories: 
 - jelszó

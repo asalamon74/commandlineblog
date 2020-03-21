@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'linuxbrew'
-permalink: https://commandline.blog.hu/2018/11/24/linuxbrew
+permalink: /2018/11/24/linuxbrew
 post_id: 14229049
 categories: 
 - homebrew

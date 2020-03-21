@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iotop, jnettop'
-permalink: https://commandline.blog.hu/2010/04/17/iotop_jnettop
+permalink: /2010/04/17/iotop_jnettop
 post_id: 1909024
 categories: 
 - top

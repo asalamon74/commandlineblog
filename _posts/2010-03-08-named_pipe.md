@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'named pipe'
-permalink: https://commandline.blog.hu/2010/03/08/named_pipe
+permalink: /2010/03/08/named_pipe
 post_id: 1775484
 categories: 
 - pipe

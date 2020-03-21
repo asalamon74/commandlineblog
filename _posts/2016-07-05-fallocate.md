@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'fallocate'
-permalink: https://commandline.blog.hu/2016/07/05/fallocate
+permalink: /2016/07/05/fallocate
 post_id: 8865424
 categories: 
 - dd

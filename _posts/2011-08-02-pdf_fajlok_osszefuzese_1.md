@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pdf fájlok összefűzése'
-permalink: https://commandline.blog.hu/2011/08/02/pdf_fajlok_osszefuzese_1
+permalink: /2011/08/02/pdf_fajlok_osszefuzese_1
 post_id: 3113586
 categories: 
 - pdf

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VHS audio video szinkronizáció'
-permalink: https://commandline.blog.hu/2015/07/24/vhs_audio_video_szinkronizacio
+permalink: /2015/07/24/vhs_audio_video_szinkronizacio
 post_id: 7646734
 categories: 
 - video

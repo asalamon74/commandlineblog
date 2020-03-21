@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Képek keresése címkék alapján'
-permalink: https://commandline.blog.hu/2011/01/24/kepek_keresese_cimkek_alapjan
+permalink: /2011/01/24/kepek_keresese_cimkek_alapjan
 post_id: 2549140
 categories: 
 - címke

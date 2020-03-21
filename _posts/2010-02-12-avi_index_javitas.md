@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'avi index javítás'
-permalink: https://commandline.blog.hu/2010/02/12/avi_index_javitas
+permalink: /2010/02/12/avi_index_javitas
 post_id: 1688314
 categories: 
 - index

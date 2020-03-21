@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'cp helyett rsync'
-permalink: https://commandline.blog.hu/2017/03/09/cp_helyett_rsync
+permalink: /2017/03/09/cp_helyett_rsync
 post_id: 12322619
 categories: 
 - cp

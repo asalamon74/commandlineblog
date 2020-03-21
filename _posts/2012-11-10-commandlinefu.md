@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'commandlinefu'
-permalink: https://commandline.blog.hu/2012/11/10/commandlinefu
+permalink: /2012/11/10/commandlinefu
 post_id: 4888037
 categories: 
 - commandlinefu

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'nice, renice'
-permalink: https://commandline.blog.hu/2011/11/01/nice_renice
+permalink: /2011/11/01/nice_renice
 post_id: 3342058
 categories: 
 - nice

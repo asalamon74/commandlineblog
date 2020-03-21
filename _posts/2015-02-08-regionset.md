@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'regionset'
-permalink: https://commandline.blog.hu/2015/02/08/regionset
+permalink: /2015/02/08/regionset
 post_id: 7149463
 categories: 
 - dvd

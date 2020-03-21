@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Parancssor gyors szerkesztése editorban'
-permalink: https://commandline.blog.hu/2010/09/16/parancssor_gyors_szerkesztese_editorban
+permalink: /2010/09/16/parancssor_gyors_szerkesztese_editorban
 post_id: 2297534
 categories: 
 - editor

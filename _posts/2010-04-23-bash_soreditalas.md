@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash soreditálás'
-permalink: https://commandline.blog.hu/2010/04/23/bash_soreditalas
+permalink: /2010/04/23/bash_soreditalas
 post_id: 1926893
 categories: 
 - vi

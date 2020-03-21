@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'recordmydesktop'
-permalink: https://commandline.blog.hu/2013/05/26/recordmydesktop
+permalink: /2013/05/26/recordmydesktop
 post_id: 5306388
 categories:  []
 ---

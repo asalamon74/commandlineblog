@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'parancsbehelyettesítés'
-permalink: https://commandline.blog.hu/2010/03/14/parancs_behelyettesites
+permalink: /2010/03/14/parancs_behelyettesites
 post_id: 1796971
 categories: 
 - date

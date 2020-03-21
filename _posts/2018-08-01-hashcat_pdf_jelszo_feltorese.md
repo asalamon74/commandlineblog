@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'hashcat: pdf jelszó feltörése'
-permalink: https://commandline.blog.hu/2018/08/01/hashcat_pdf_jelszo_feltorese
+permalink: /2018/08/01/hashcat_pdf_jelszo_feltorese
 post_id: 14146789
 categories:  []
 ---

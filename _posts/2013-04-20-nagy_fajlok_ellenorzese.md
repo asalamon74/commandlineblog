@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nagy fájlok ellenőrzése'
-permalink: https://commandline.blog.hu/2013/04/20/nagy_fajlok_ellenorzese
+permalink: /2013/04/20/nagy_fajlok_ellenorzese
 post_id: 5234503
 categories: 
 - kriptográfia

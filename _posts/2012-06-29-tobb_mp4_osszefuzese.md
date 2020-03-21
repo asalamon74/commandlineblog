@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Több mp4 összefűzése'
-permalink: https://commandline.blog.hu/2012/06/29/tobb_mp4_osszefuzese
+permalink: /2012/06/29/tobb_mp4_osszefuzese
 post_id: 4618528
 categories: 
 - mp4

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pv + cdialog'
-permalink: https://commandline.blog.hu/2013/05/20/pv_cdialog
+permalink: /2013/05/20/pv_cdialog
 post_id: 5305738
 categories: 
 - pv

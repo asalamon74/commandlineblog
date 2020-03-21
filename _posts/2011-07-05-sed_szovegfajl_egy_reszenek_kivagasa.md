@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sed: szövegfájl egy részének kivágása'
-permalink: https://commandline.blog.hu/2011/07/05/sed_szovegfajl_egy_reszenek_kivagasa
+permalink: /2011/07/05/sed_szovegfajl_egy_reszenek_kivagasa
 post_id: 3039131
 categories: 
 - sed

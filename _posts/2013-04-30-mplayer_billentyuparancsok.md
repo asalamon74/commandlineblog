@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'mplayer billentyűparancsok'
-permalink: https://commandline.blog.hu/2013/04/30/mplayer_billentyuparancsok
+permalink: /2013/04/30/mplayer_billentyuparancsok
 post_id: 5250630
 categories: 
 - mplayer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'du rejtett alkönyvtár'
-permalink: https://commandline.blog.hu/2017/04/27/du_rejtett_alkonyvtar
+permalink: /2017/04/27/du_rejtett_alkonyvtar
 post_id: 12456153
 categories: 
 - du

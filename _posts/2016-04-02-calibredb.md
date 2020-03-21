@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'calibredb'
-permalink: https://commandline.blog.hu/2016/04/02/calibredb
+permalink: /2016/04/02/calibredb
 post_id: 8553960
 categories: 
 - calibre

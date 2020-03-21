@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GNU parallel'
-permalink: https://commandline.blog.hu/2012/05/03/gnu_parallel
+permalink: /2012/05/03/gnu_parallel
 post_id: 4481862
 categories: 
 - find

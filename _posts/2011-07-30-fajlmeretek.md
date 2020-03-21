@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fájlméretek összeadása'
-permalink: https://commandline.blog.hu/2011/07/30/fajlmeretek
+permalink: /2011/07/30/fajlmeretek
 post_id: 3107411
 categories: 
 - awk

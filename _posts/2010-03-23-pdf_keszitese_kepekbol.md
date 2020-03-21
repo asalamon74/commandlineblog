@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'pdf készítése képekből'
-permalink: https://commandline.blog.hu/2010/03/23/pdf_keszitese_kepekbol
+permalink: /2010/03/23/pdf_keszitese_kepekbol
 post_id: 1836763
 categories: 
 - pdf

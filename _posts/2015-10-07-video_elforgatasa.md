@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'videó elforgatása'
-permalink: https://commandline.blog.hu/2015/10/07/video_elforgatasa
+permalink: /2015/10/07/video_elforgatasa
 post_id: 7920842
 categories: 
 - ffmpeg

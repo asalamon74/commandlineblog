@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sorok számozása'
-permalink: https://commandline.blog.hu/2010/02/03/sorok_szamozasa
+permalink: /2010/02/03/sorok_szamozasa
 post_id: 1673896
 categories: 
 - cat

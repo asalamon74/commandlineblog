@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'xbacklight'
-permalink: https://commandline.blog.hu/2012/07/25/xbacklight
+permalink: /2012/07/25/xbacklight
 post_id: 4670510
 categories: 
 - xbacklight

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash ctrl-r'
-permalink: https://commandline.blog.hu/2010/01/28/bash_ctrl_r
+permalink: /2010/01/28/bash_ctrl_r
 post_id: 1634681
 categories: 
 - bash

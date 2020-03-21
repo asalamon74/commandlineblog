@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fénykép gömbfelületre'
-permalink: https://commandline.blog.hu/2012/03/23/fenykep_gombfeluletre
+permalink: /2012/03/23/fenykep_gombfeluletre
 post_id: 4332484
 categories: 
 - gömb

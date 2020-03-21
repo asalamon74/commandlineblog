@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'diff + process helyettesítés'
-permalink: https://commandline.blog.hu/2011/09/07/diff_process_helyettesites
+permalink: /2011/09/07/diff_process_helyettesites
 post_id: 3199586
 categories: 
 - process

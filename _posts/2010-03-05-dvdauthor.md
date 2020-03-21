@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dvdauthor'
-permalink: https://commandline.blog.hu/2010/03/05/dvdauthor
+permalink: /2010/03/05/dvdauthor
 post_id: 1755134
 categories: 
 - dvd

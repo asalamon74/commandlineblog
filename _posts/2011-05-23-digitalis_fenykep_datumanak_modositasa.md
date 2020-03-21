@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Digitális fénykép dátumának módosítása'
-permalink: https://commandline.blog.hu/2011/05/23/digitalis_fenykep_datumanak_modositasa
+permalink: /2011/05/23/digitalis_fenykep_datumanak_modositasa
 post_id: 2918974
 categories: 
 - pentax

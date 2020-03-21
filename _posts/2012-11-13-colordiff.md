@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'colordiff'
-permalink: https://commandline.blog.hu/2012/11/13/colordiff
+permalink: /2012/11/13/colordiff
 post_id: 4888046
 categories: 
 - less

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Linuxvilág'
-permalink: https://commandline.blog.hu/2013/03/07/linuxvilag
+permalink: /2013/03/07/linuxvilag
 post_id: 5120526
 categories: 
 - újság

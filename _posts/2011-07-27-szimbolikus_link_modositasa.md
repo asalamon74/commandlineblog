@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Szimbolikus link módosítása'
-permalink: https://commandline.blog.hu/2011/07/27/szimbolikus_link_modositasa
+permalink: /2011/07/27/szimbolikus_link_modositasa
 post_id: 3099922
 categories: 
 - szimbolikus_lunk

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'mkv fejezetek'
-permalink: https://commandline.blog.hu/2012/11/30/mkv_fejezetek
+permalink: /2012/11/30/mkv_fejezetek
 post_id: 4938959
 categories: 
 - mkv

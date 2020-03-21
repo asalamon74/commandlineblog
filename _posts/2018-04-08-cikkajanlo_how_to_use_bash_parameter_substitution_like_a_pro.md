@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'cikkajánló: How To Use Bash Parameter Substitution Like A Pro'
-permalink: https://commandline.blog.hu/2018/04/08/cikkajanlo_how_to_use_bash_parameter_substitution_like_a_pro
+permalink: /2018/04/08/cikkajanlo_how_to_use_bash_parameter_substitution_like_a_pro
 post_id: 13816264
 categories: 
 - cikkajánló

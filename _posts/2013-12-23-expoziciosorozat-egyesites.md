@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Expozíciósorozat-egyesítés'
-permalink: https://commandline.blog.hu/2013/12/23/expoziciosorozat-egyesites
+permalink: /2013/12/23/expoziciosorozat-egyesites
 post_id: 5696286
 categories: 
 - exiftool

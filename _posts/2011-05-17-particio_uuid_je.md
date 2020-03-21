@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Partíció UUID-je'
-permalink: https://commandline.blog.hu/2011/05/17/particio_uuid_je
+permalink: /2011/05/17/particio_uuid_je
 post_id: 2909152
 categories: 
 - e2fsprogs

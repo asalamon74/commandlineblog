@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Merevlemez 4K szektorméret'
-permalink: https://commandline.blog.hu/2011/01/30/merevlemez_4k_szektormeret
+permalink: /2011/01/30/merevlemez_4k_szektormeret
 post_id: 2578199
 categories: 
 - merevlemez

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'jhead fájlátnevezés'
-permalink: https://commandline.blog.hu/2017/04/30/jhead_fajlatnevezes
+permalink: /2017/04/30/jhead_fajlatnevezes
 post_id: 12456167
 categories: 
 - digitális_fénykép

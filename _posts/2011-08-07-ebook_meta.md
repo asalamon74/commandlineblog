@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ebook-meta'
-permalink: https://commandline.blog.hu/2011/08/07/ebook_meta
+permalink: /2011/08/07/ebook_meta
 post_id: 3129994
 categories: 
 - ebook

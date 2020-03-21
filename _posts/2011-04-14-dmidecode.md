@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dmidecode'
-permalink: https://commandline.blog.hu/2011/04/14/dmidecode
+permalink: /2011/04/14/dmidecode
 post_id: 2823073
 categories: 
 - hardver

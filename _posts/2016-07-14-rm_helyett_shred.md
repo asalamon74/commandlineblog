@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'rm helyett shred'
-permalink: https://commandline.blog.hu/2016/07/14/rm_helyett_shred
+permalink: /2016/07/14/rm_helyett_shred
 post_id: 8871668
 categories: 
 - rm

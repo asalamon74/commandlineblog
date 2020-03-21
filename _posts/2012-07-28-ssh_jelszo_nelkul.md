@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ssh jelszó nélkül'
-permalink: https://commandline.blog.hu/2012/07/28/ssh_jelszo_nelkul
+permalink: /2012/07/28/ssh_jelszo_nelkul
 post_id: 4674338
 categories: 
 - ssh

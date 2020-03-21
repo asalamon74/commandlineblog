@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GPS adatok másolása'
-permalink: https://commandline.blog.hu/2011/02/05/gps_adatok_masolasa
+permalink: /2011/02/05/gps_adatok_masolasa
 post_id: 2551678
 categories: 
 - gps

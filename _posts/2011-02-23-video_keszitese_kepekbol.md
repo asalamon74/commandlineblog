@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Videó készítése képekből'
-permalink: https://commandline.blog.hu/2011/02/23/video_keszitese_kepekbol
+permalink: /2011/02/23/video_keszitese_kepekbol
 post_id: 2682479
 categories: 
 - mkv

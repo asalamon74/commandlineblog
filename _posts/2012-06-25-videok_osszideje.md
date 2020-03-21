@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Videók összideje'
-permalink: https://commandline.blog.hu/2012/06/25/videok_osszideje
+permalink: /2012/06/25/videok_osszideje
 post_id: 4607680
 categories:  []
 ---

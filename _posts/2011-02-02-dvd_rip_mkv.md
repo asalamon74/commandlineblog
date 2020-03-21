@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DVD rip mkv'
-permalink: https://commandline.blog.hu/2011/02/02/dvd_rip_mkv
+permalink: /2011/02/02/dvd_rip_mkv
 post_id: 2585307
 categories: 
 - dvd

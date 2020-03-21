@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'exiftool gps'
-permalink: https://commandline.blog.hu/2017/06/10/exiftool_gps
+permalink: /2017/06/10/exiftool_gps
 post_id: 12582951
 categories: 
 - gps

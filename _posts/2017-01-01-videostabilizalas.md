@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Videostabilizálás'
-permalink: https://commandline.blog.hu/2017/01/01/videostabilizalas
+permalink: /2017/01/01/videostabilizalas
 post_id: 12085397
 categories: 
 - ffmpeg

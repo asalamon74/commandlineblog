@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'mkv vágása'
-permalink: https://commandline.blog.hu/2016/09/30/mkv_vagasa
+permalink: /2016/09/30/mkv_vagasa
 post_id: 11753643
 categories: 
 - mkv

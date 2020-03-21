@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fájl néhány bájtjának módosítása'
-permalink: https://commandline.blog.hu/2016/06/29/fajl_nehany_bajtjanak_modositasa
+permalink: /2016/06/29/fajl_nehany_bajtjanak_modositasa
 post_id: 8853748
 categories: 
 - dd

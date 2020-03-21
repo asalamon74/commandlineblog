@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'vi interaktív tutorial'
-permalink: https://commandline.blog.hu/2011/09/29/vi_interaktiv_tutorial
+permalink: /2011/09/29/vi_interaktiv_tutorial
 post_id: 3264284
 categories: 
 - tutorial

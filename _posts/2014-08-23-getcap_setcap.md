@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'getcap + setcap'
-permalink: https://commandline.blog.hu/2014/08/23/getcap_setcap
+permalink: /2014/08/23/getcap_setcap
 post_id: 6621147
 categories: 
 - ls

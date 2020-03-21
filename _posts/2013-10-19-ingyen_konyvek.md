@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ingyen könyvek'
-permalink: https://commandline.blog.hu/2013/10/19/ingyen_konyvek
+permalink: /2013/10/19/ingyen_konyvek
 post_id: 5585979
 categories: 
 - könyv

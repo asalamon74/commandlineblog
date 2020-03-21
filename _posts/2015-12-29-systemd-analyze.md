@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'systemd-analyze'
-permalink: https://commandline.blog.hu/2015/12/29/systemd-analyze
+permalink: /2015/12/29/systemd-analyze
 post_id: 8208402
 categories: 
 - boot

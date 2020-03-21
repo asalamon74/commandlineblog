@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash változó kapcsos zárójelben'
-permalink: https://commandline.blog.hu/2010/11/23/bash_valtozo_kapcsos_zarojelben
+permalink: /2010/11/23/bash_valtozo_kapcsos_zarojelben
 post_id: 2459587
 categories: 
 - bash

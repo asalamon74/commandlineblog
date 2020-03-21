@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dd (dvd backup)'
-permalink: https://commandline.blog.hu/2010/01/10/dd_dvd_backup
+permalink: /2010/01/10/dd_dvd_backup
 post_id: 1658999
 categories: 
 - dvd

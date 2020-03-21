@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XML fájlok összehasonlítása'
-permalink: https://commandline.blog.hu/2015/07/21/xml_fajlok_osszehasonlitasa
+permalink: /2015/07/21/xml_fajlok_osszehasonlitasa
 post_id: 7641144
 categories: 
 - xml

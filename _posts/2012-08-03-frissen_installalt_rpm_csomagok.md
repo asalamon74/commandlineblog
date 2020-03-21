@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Frissen installált rpm csomagok'
-permalink: https://commandline.blog.hu/2012/08/03/frissen_installalt_rpm_csomagok
+permalink: /2012/08/03/frissen_installalt_rpm_csomagok
 post_id: 4683123
 categories: 
 - rpm

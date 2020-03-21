@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kétmenetes kódolás egyszerűen'
-permalink: https://commandline.blog.hu/2010/05/06/ketmenetes_kodolas_egyszeruen
+permalink: /2010/05/06/ketmenetes_kodolas_egyszeruen
 post_id: 1976616
 categories: 
 - for

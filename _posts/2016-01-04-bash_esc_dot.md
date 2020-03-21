@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash ESC dot'
-permalink: https://commandline.blog.hu/2016/01/04/bash_esc_dot
+permalink: /2016/01/04/bash_esc_dot
 post_id: 8215804
 categories: 
 - meta

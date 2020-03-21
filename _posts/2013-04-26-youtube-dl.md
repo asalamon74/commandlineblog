@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'youtube-dl'
-permalink: https://commandline.blog.hu/2013/04/26/youtube-dl
+permalink: /2013/04/26/youtube-dl
 post_id: 5247035
 categories: 
 - youtube

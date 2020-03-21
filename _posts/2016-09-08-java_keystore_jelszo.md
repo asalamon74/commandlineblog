@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'java keystore jelszó'
-permalink: https://commandline.blog.hu/2016/09/08/java_keystore_jelszo
+permalink: /2016/09/08/java_keystore_jelszo
 post_id: 11687825
 categories: 
 - java

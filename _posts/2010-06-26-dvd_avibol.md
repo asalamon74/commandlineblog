@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DVD aviból'
-permalink: https://commandline.blog.hu/2010/06/26/dvd_avibol
+permalink: /2010/06/26/dvd_avibol
 post_id: 2108609
 categories: 
 - dvd

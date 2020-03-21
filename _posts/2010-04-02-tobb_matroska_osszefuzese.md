@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Több matroska összefűzése'
-permalink: https://commandline.blog.hu/2010/04/02/tobb_matroska_osszefuzese
+permalink: /2010/04/02/tobb_matroska_osszefuzese
 post_id: 1842303
 categories: 
 - mkv

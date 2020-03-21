@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'xrandr --panning'
-permalink: https://commandline.blog.hu/2013/11/20/xrandr_--panning
+permalink: /2013/11/20/xrandr_--panning
 post_id: 5644987
 categories: 
 - xrandr

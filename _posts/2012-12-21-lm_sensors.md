@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'lm_sensors'
-permalink: https://commandline.blog.hu/2012/12/21/lm_sensors
+permalink: /2012/12/21/lm_sensors
 post_id: 4975835
 categories: 
 - szenzor

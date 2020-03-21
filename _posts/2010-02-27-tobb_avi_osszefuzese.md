@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Több avi összefűzése'
-permalink: https://commandline.blog.hu/2010/02/27/tobb_avi_osszefuzese
+permalink: /2010/02/27/tobb_avi_osszefuzese
 post_id: 1734760
 categories: 
 - avi

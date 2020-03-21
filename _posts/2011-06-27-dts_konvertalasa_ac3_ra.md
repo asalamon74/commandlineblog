@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DTS konvertálása AC3-ra'
-permalink: https://commandline.blog.hu/2011/06/27/dts_konvertalasa_ac3_ra
+permalink: /2011/06/27/dts_konvertalasa_ac3_ra
 post_id: 3015611
 categories: 
 - ffmpeg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fájlok átnevezése kisbetűssé'
-permalink: https://commandline.blog.hu/2010/05/20/fajlok_atnevezese_kisbetusse
+permalink: /2010/05/20/fajlok_atnevezese_kisbetusse
 post_id: 2003832
 categories: 
 - for

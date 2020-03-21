@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Screenshot'
-permalink: https://commandline.blog.hu/2010/12/31/screenshot_2
+permalink: /2010/12/31/screenshot_2
 post_id: 2544026
 categories: 
 - screenshot

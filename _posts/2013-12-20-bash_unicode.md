@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash + unicode'
-permalink: https://commandline.blog.hu/2013/12/20/bash_unicode
+permalink: /2013/12/20/bash_unicode
 post_id: 5693212
 categories:  []
 ---

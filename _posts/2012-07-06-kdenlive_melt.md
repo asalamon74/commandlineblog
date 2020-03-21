@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'kdenlive melt'
-permalink: https://commandline.blog.hu/2012/07/06/kdenlive_melt
+permalink: /2012/07/06/kdenlive_melt
 post_id: 4632473
 categories: 
 - melt

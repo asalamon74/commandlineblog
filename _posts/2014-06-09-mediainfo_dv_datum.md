@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'mediainfo - DV dátum'
-permalink: https://commandline.blog.hu/2014/06/09/mediainfo_dv_datum
+permalink: /2014/06/09/mediainfo_dv_datum
 post_id: 6289550
 categories: 
 - dv

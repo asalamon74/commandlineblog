@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'raw konvertálása jpg-re'
-permalink: https://commandline.blog.hu/2010/05/11/raw_konvertalasa_jpg_re
+permalink: /2010/05/11/raw_konvertalasa_jpg_re
 post_id: 1991073
 categories: 
 - jpeg

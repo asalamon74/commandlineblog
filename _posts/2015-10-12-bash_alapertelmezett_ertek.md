@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash: alapértelmezett érték'
-permalink: https://commandline.blog.hu/2015/10/12/bash_alapertelmezett_ertek
+permalink: /2015/10/12/bash_alapertelmezett_ertek
 post_id: 7956946
 categories: 
 - bash

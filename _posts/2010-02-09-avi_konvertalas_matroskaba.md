@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'avi konvertálás matroskába'
-permalink: https://commandline.blog.hu/2010/02/09/avi_konvertalas_matroskaba
+permalink: /2010/02/09/avi_konvertalas_matroskaba
 post_id: 1688481
 categories: 
 - avi

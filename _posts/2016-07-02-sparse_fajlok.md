@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sparse fájlok'
-permalink: https://commandline.blog.hu/2016/07/02/sparse_fajlok
+permalink: /2016/07/02/sparse_fajlok
 post_id: 8853758
 categories: 
 - dd

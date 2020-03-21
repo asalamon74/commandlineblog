@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bash script módosítása futtatás közben'
-permalink: https://commandline.blog.hu/2016/04/05/bash_script_modositasa_futtatas_kozben
+permalink: /2016/04/05/bash_script_modositasa_futtatas_kozben
 post_id: 8554258
 categories: 
 - bash

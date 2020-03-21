@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '.src.rpm patchelése'
-permalink: https://commandline.blog.hu/2012/03/09/_src_rpm_patchelese
+permalink: /2012/03/09/_src_rpm_patchelese
 post_id: 4299120
 categories: 
 - patch

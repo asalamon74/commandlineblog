@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'encfs --reverse'
-permalink: https://commandline.blog.hu/2016/12/03/encfs_--reverse
+permalink: /2016/12/03/encfs_--reverse
 post_id: 12010714
 categories: 
 - backup

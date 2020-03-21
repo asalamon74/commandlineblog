@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kindle factoryreset után'
-permalink: https://commandline.blog.hu/2014/04/03/kindle_factoryreset_utan
+permalink: /2014/04/03/kindle_factoryreset_utan
 post_id: 5890678
 categories: 
 - kindle

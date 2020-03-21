@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ebook jpg fájlokból'
-permalink: https://commandline.blog.hu/2014/01/01/ebook_jpg_fajlokbol
+permalink: /2014/01/01/ebook_jpg_fajlokbol
 post_id: 5719000
 categories: 
 - jpeg

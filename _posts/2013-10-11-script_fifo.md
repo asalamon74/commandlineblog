@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'script + fifo'
-permalink: https://commandline.blog.hu/2013/10/11/script_fifo
+permalink: /2013/10/11/script_fifo
 post_id: 5562857
 categories:  []
 ---

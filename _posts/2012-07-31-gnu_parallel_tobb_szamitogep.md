@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GNU parallel - több számítógép'
-permalink: https://commandline.blog.hu/2012/07/31/gnu_parallel_tobb_szamitogep
+permalink: /2012/07/31/gnu_parallel_tobb_szamitogep
 post_id: 4682459
 categories: 
 - convert

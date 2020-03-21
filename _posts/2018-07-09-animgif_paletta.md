@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'animgif paletta'
-permalink: https://commandline.blog.hu/2018/07/09/animgif_paletta
+permalink: /2018/07/09/animgif_paletta
 post_id: 14100169
 categories: 
 - animgif

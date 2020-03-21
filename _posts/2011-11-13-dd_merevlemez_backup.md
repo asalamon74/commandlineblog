@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dd (merevlemez backup)'
-permalink: https://commandline.blog.hu/2011/11/13/dd_merevlemez_backup
+permalink: /2011/11/13/dd_merevlemez_backup
 post_id: 3372891
 categories: 
 - backup

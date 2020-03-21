@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Véletlenszám'
-permalink: https://commandline.blog.hu/2013/04/14/veletlenszam
+permalink: /2013/04/14/veletlenszam
 post_id: 5220652
 categories: 
 - random

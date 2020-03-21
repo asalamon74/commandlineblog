@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HDD lecserélése SSD-re'
-permalink: https://commandline.blog.hu/2011/11/25/hdd_le-rol_ssd-re
+permalink: /2011/11/25/hdd_le-rol_ssd-re
 post_id: 3394267
 categories: 
 - windows
