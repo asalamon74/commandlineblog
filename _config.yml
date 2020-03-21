@@ -24,6 +24,9 @@ defaults:
     values:
       layout: "post"
 
+exclude:
+    - README.md
+
 future: true
 plugins:
   - jekyll-seo-tag
