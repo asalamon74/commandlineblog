@@ -12,7 +12,7 @@ categories:
 ---
 
 Korábban írtam már az 
-[xclip](https://commandline.blog.hu/2013/07/28/xclip) parancsról, amivel parancssorból kezelhetjük a clipboardot, ha Mac OS alatt van szükségünk erre, akkor a pbcopy pbpaste párost használhatjuk:
+[xclip](https://commandlineblog.melda.info/2013/07/28/xclip) parancsról, amivel parancssorból kezelhetjük a clipboardot, ha Mac OS alatt van szükségünk erre, akkor a pbcopy pbpaste párost használhatjuk:
 
 ```
 $ echo 'alma' | pbcopy

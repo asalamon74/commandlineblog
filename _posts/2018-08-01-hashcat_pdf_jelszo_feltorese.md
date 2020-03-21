@@ -7,7 +7,7 @@ categories:  []
 ---
 
 Gyártsunk egy 
-[jelszóvédett pdf](https://commandline.blog.hu/2015/11/20/pdf_jelszovedelem)-et:
+[jelszóvédett pdf](https://commandlineblog.melda.info/2015/11/20/pdf_jelszovedelem)-et:
 
 ```
 $ echo -n titok > titok.txt
@@ -17,7 +17,7 @@ $ pdftk titok.pdf output titok_jelszo.pdf user_pw 987654321
 ```
 
 Ahhoz, hogy a titkosított pdf-et 
-[hashcattel](https://commandline.blog.hu/2018/07/29/hashcat) feltörhessük, két dologra lesz szükségünk. Először is tudnunk kell, milyen hash-et használ a pdf titkosítás. A pdf fájl elején látszik, hogy ez egy PDF 1.4-es fájl, 
+[hashcattel](https://commandlineblog.melda.info/2018/07/29/hashcat) feltörhessük, két dologra lesz szükségünk. Először is tudnunk kell, milyen hash-et használ a pdf titkosítás. A pdf fájl elején látszik, hogy ez egy PDF 1.4-es fájl, 
 ```
 hashcat --help
 ```
