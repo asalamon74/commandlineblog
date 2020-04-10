@@ -3,7 +3,7 @@ description: "CommandLine blog"
 author:
   name: "Sala"
   email: "andras.salamon@melda.info"
-  url: "https://commandline.blog.hu"
+  url: "https://commandlineblog.melda.info"
 
 baseurl: /
 
