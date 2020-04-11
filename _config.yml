@@ -12,6 +12,7 @@ destination: ./_site
 permalink: /:title
 paginate: 10
 paginate_path: /page/:num/
+timezone: Europe/Budapest
 
 disqus:
     shortname: commandline-blog
