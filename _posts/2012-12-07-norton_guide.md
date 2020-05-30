@@ -17,6 +17,6 @@ Valószínűleg erre már kevesen emlékeznek, de a DOS-os korszakban elég nép
 Nemrég ősrégi backup lemezek között turkálva találtam néhány .ng fájlt, és kíváncsi voltam, meg tudom-e nézni ezeket Linux alatt. Nem túl meglepő módon nincs nagy választék linuxos ng néző programokból, de az 
 [eg](http://www.davep.org/norton-guides/) segítségével sikerült megnyitni a fájlokat.
 
-![eg.jpg](http://m.cdn.blog.hu/co/commandline/image/eg.jpg)
+![eg.jpg](/assets/eg.jpg)
 
 Az igazsághoz az is hozzátartozik, hogy nemcsak az ng formátum avult el, hanem a sokkal később készült eg felett is eljárt az idő, ahhoz, hogy lefordítsuk egy modernebb Linuxon, kissé bele kell nyúlni a forráskódba.

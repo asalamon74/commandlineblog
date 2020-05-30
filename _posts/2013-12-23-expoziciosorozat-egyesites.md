@@ -14,7 +14,7 @@ Ha olyan témát szeretnénk lefényképezni ahol túl nagy az eltérés a legvi
 Ha expozíciósorozatot készítünk ( 
 [bracketing](http://en.wikipedia.org/wiki/Bracketing) ) ahol az egyes képeknél eltér a záridő ( de minden egyéb paraméter megegyezik ), akkor már sokkal több esélyünk van arra, hogy minden részlet rendesen látszódjon, persze eltérő képeken:
 
-![ef_input_0470.jpg](http://m.cdn.blog.hu/co/commandline/image/ef_input_0470.jpg)
+![ef_input_0470.jpg](/assets/ef_input_0470.jpg)
 
 Már csak össze kell illeszteni a különböző képeket. Az egyik lehetőség a HDR ( valójában inkább 
 [HDR + tonemapping](http://photo.stackexchange.com/q/7630/507) ), de számomra szimpatikusabb az expozíciósorozat-egyesítés ( exposure fusion ). A különbséget itt nem részletezném, akit érdekel 
@@ -53,4 +53,4 @@ A script használata egyszerű, ha imgp0470.dng, imgp0471.dng, imgp0472.dng fáj
 exposure_fusion.sh 470
 ```
 
-![imgp0470_ef.jpg](http://m.cdn.blog.hu/co/commandline/image/imgp0470_ef.jpg)
+![imgp0470_ef.jpg](/assets/imgp0470_ef.jpg)

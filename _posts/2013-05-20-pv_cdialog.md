@@ -27,4 +27,4 @@ $ (pv -n nagy.pgn | gzip -c > nagy.gz) 2>&1 | dialog --gauge "Tömörítés..." 
 
 Az eredmény egy ehhez hasonló dialógusablak:
 
-![pv_dialog.gif](http://m.cdn.blog.hu/co/commandline/image/pv_dialog.gif)
+![pv_dialog.gif](/assets/pv_dialog.gif)
