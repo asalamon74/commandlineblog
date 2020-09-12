@@ -15,7 +15,7 @@ A már többször említett
 convert -background none -geometry +0+0 -fill \#ffffff -pointsize 36 label:"alma őű" -set label '' felirat.png
 ``` 
 A fenti utasítás hatására átlátszó háttér előtt fehér betűkkel az alma őű felirat jelenik meg. A következő képen látható, hogy a magyar ékezetes betűket is rendesen kezeli a program: 
-![](http://commandline.blog.hu/media/image/felirat.png) 
+![](/assets/felirat.png) 
   
   
 Ha több soros szöveget szeretnénk, akkor érdemes egy szövegfájlt készíteni, és a következő módon konvertálni: 

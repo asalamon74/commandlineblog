@@ -16,5 +16,5 @@ Ha gyakran használunk parancssort, akkor a két legismertebb editor (
 Mindkét editorra igaz, hogy eleinte nagyon kényelmetlen a használatuk, kell egy kis idő míg megtanulja az ember az alapokat. Ebben a tanulásban segít egy interaktív vi ( pontosabban 
 [vim](http://www.vim.org/) ) 
 [tutorial](http://www.openvim.com/tutorial.html). 
-[![](http://commandline.blog.hu/media/image/vim_tutorial.jpg)](http://commandline.blog.hu/media/image/vim_tutorial.jpg) 
+[![](/assets/vim_tutorial.jpg)](http://commandline.blog.hu/media/image/vim_tutorial.jpg) 
 forrás:[lifehacker.com](http://lifehacker.com/5844890/the-interactive-vim-tutorial-teaches-you-how-to-use-the-super+efficient-vim-text-editor)

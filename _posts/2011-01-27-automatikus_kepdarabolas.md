@@ -14,13 +14,13 @@ Az egyik ilyen script segítségével egy régi problémámat sikerült megoldan
 [szkennelek be](/2011/01/15/szkenneles), akkor elég macerás egyenként kijelölni a képeket, és a kissé elfordult képeket visszaforgatni ( akár digitálisan, akár megigazítás után újraszkennelve ). 
 A 
 [multicrop](http://www.fmwconcepts.com/imagemagick/multicrop/) script mindezt elvégzi helyettünk. A következő képet szkenneltem be, 2 könyvborítót láthatunk rajta: 
-![](http://commandline.blog.hu/media/image/egyben.jpg) 
+![](/assets/egyben.jpg) 
  A következő parancs segítségével egyszerűen feldarabolhatjuk a képet: 
 ```
 multicrop egyben.tiff konyv.tiff
 ``` 
  Az eredmény 2 fájl, konyv-0.tiff és konyv-1.tiff: 
-![](http://commandline.blog.hu/media/image/konyv1.jpg) 
+![](/assets/konyv1.jpg) 
  
-![](http://commandline.blog.hu/media/image/konyv2.jpg) 
+![](/assets/konyv2.jpg) 
 A script akkor működik jól, ha a háttérszín eléggé homogén, és elüt a fényképektől. Bár ebben a példában nem volt rá szükség, automatikusan elforgatja a ferdén beszkennelt képeket.

@@ -44,5 +44,5 @@ gnuplot graph.plt
 ``` 
 Az eredmény pedig itt látható: 
  
-![](http://commandline.blog.hu/media/image/gnuplot_test1.png) 
+![](/assets/gnuplot_test1.png) 
  

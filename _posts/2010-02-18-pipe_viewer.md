@@ -24,7 +24,7 @@ Ha a pv programnak egy fájlnevet adunk paraméternek, akkor a standard outputra
 pv nagy.pgn | gzip -c > nagy.gz
 ``` 
 A pipe viewer segítségével folyamatos információt kapunk arról, hol tartunk a tömörítésben: 
-![](http://commandline.blog.hu/media/image/pipe_viewer_1.png)  
+![](/assets/pipe_viewer_1.png)  
  Egy bonyolultabb példában több 
 ```
 pv
@@ -51,6 +51,6 @@ pv
 ```
  használatakor érdemes használni. 
 Az eredmény a következő képen látszik: 
-![](http://commandline.blog.hu/media/image/pipe_viewer_2.png) 
+![](/assets/pipe_viewer_2.png) 
   
  Látható, hogy mivel a második pv standard inputról olvassa az adatokat, nem tudhatja, hogy mennyi adat jön még, így ott nincs információ a várható befejezési időről.
