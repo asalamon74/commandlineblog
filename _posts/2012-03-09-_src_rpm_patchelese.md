@@ -39,16 +39,19 @@ Ezen kívül módosítanunk kell a .spec fájlt:
 %define name            ufraw
 %define version         0.18
 %define release         %mkrel 4
-**Patch0: ufraw_kx.patch**...
+Patch0: ufraw_kx.patch...
 %prep
 %setup -q
-**%patch0 -p1**
+%patch0 -p1
 ```
 
-A spec fájlnak csak a számunkra érdekes részét mutatom, a módosításokat kiemelve.
+A spec fájlnak csak a számunkra érdekes részét mutatom.
 
 Ezután már lefordíthatjuk a .src.rpm-et:
 
 ```
 rpmbuild -bb rpmbuild/SPECS/ufraw.spec
 ```
+
+Update: Érdekes, amikor később újra használtam ezt, nem kellett már a
+patch0 parancs a `%prep` részben.
