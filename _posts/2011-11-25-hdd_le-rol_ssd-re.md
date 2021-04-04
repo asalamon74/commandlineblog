@@ -3,7 +3,7 @@ layout: post
 title: 'HDD lecserélése SSD-re'
 permalink: /2011/11/25/hdd_le-rol_ssd-re
 post_id: 3394267
-categories: 
+categories:
 - windows
 - linux
 - hdd
@@ -86,8 +86,7 @@ mount /dev/loop1 /mnt/diska1
 umount /mnt/diska1
 ```
 
-A partíció átméretezéséhez az 
-[ntfsresize](http://www.tuxera.com/?id=ntfsresize) programot használtam:
+A partíció átméretezéséhez az [ntfsresize](http://www.tuxera.com/?id=ntfsresize) programot használtam:
 
 ```
 $ ntfsresize --info /dev/loop1
@@ -114,7 +113,7 @@ Az első parancs alapvető információkat ír ki a partícióról, a legfontosa
 ## MBR átmásolása
 
 
- A HDD-ről át kell másolni az 
+A HDD-ről át kell másolni az 
 [MBR](http://en.wikipedia.org/wiki/Master_boot_record)-t az új SSD-re. Bár elvileg az első szektor tartalmazza az MBR-t, és a leírás alapján elegendő lenne az első 440 (vagy 446) byte átmásolása (hiszen utána a partíciós tábla található), egy NTFS boot rekordot bemutató 
 [leírás](http://thestarman.pcministry.com/asm/mbr/NTFSBR.htm) (amiből többet meg lehet tudni az NTFS bootról mint amennyit valaha szerettem volna megtudni) alapján az ezt követő szektorok is tartalmaznak hasznos információt. Az egyszerűség kedvéért átmásoltam mindent ami az első partíció előtt található a merevlemezen:
 
@@ -164,8 +163,7 @@ Ahogy a már említett
 
 ```
 0000000 eb 52 90 4e 54 46 53 20 20 20 20 00 02 08 00 00
-0000020 00 00 00 00 00 f8 00 00 
-3f 00 f0 00 3f 00 00 00
+0000020 00 00 00 00 00 f8 00 00 3f 00 f0 00 3f 00 00 00
 ```
 
 A kijelölt rész a következő 3 számot tartalmazza (
